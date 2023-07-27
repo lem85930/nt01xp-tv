@@ -5,3 +5,12 @@ CCTV免費頻道,https://tv.cctv.com/live
 安博機上盒使用教學 https://ub6789.com
 
 小雲機上盒使用教學 https://6868c.cc
+
+電視直播源搜索50.7.238.114:8278
+http://tonkiang.us/?s=50.7.238.114:8278
+
+電視直播源搜索引擎198.16.100.90:8278
+http://tonkiang.us/?s=http://198.16.100.90:8278
+
+電視直播源搜索引擎動物星球
+http://tonkiang.us/?s=動物星球
