@@ -17,6 +17,12 @@ http://tonkiang.us/?s=50.7.238.114:8278
 電視直播源搜索引擎198.16.100.90:8278
 http://tonkiang.us/?s=http://198.16.100.90:8278
 
+TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+
+東森電影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+
+東森戲劇,http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+
 HBO強檔巨獻,http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 
 HBO原創巨獻,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
