@@ -73,6 +73,15 @@ Discovery頻道,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366
 
 龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 
+緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+
+緯來體育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
+
+美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+
+龍祥電影,http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+
+
 
 
 
