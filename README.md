@@ -69,6 +69,7 @@ Discovery頻道,http://50.7.238.114:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366
 
 龍華偶像,http://50.7.238.114:8278/lunghuaidol_twn/playlist.m3u8?tid=MB3B9268047492680474&ct=19234&tsum=792a8d573313f22d3bd8670148df20cb
 
+龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MC1C3944472239444722&ct=19226&tsum=99c0c7c82e2fc48b16605865c3eaeb82
 
 
 
