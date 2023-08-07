@@ -93,6 +93,8 @@ CN卡通,http://50.7.238.114:8278/momo1_twn/playlist.m3u8?tid=MDCD83373372833733
 
 台視,http://50.7.238.114:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
 
+CNN新聞,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+
 
 
 
