@@ -17,3 +17,6 @@ http://tonkiang.us/?s=50.7.238.114:8278
 電視直播源搜索引擎198.16.100.90:8278
 http://tonkiang.us/?s=http://198.16.100.90:8278
 
+HBO強檔巨獻,http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+
+
