@@ -1,5 +1,6 @@
-TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
-東森新聞,https://today.line.me/tw/v2/article/grrvVZ
+
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE
@@ -20,3 +21,4 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 TVBS新聞(VPN),https://www.youtube.com/watch?v=2mCSYvcfhtc
 三立新聞(VPN),https://www.youtube.com/watch?v=FoBfXvlOR6I
 東森新聞(VPN),https://www.youtube.com/watch?v=R2iMq5LKXco
+
