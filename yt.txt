@@ -14,7 +14,6 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-東森新聞2,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 
 1綜合,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 1綜合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
