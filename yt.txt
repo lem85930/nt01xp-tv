@@ -10,10 +10,8 @@
 緯來育樂,https://fsv4.yj011.net/sat/tv701.flv
 緯來體育,https://fsv4.yj011.net/sat/tv721.flv
 
-TVBS新聞1,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS新聞2,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-東森新聞1,https://www.youtube.com/watch?v=S5WOGu2HSes
-東森新聞2,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE
