@@ -21,7 +21,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 
-測試東森新聞1,https://www.4gtv.tv/channel/4gtv-live114?set=4&ch=234
+測試TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 測試東森新聞2,https://today.line.me/tw/v2/article/grrvVZ
 
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
