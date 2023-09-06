@@ -1,5 +1,5 @@
 
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes
 東森LIVE,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
