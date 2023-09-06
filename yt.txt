@@ -23,6 +23,7 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 
 測試TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 測試東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+測試亞洲旅遊,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
 
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
