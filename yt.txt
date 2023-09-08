@@ -1,5 +1,5 @@
 
-緯來綜合,https://www.histar.tv/live/videoland
+緯來綜合2,https://www.histar.tv/live/videoland
 
 東森幼幼,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
