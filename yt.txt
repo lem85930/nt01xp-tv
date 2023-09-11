@@ -1,9 +1,11 @@
+常看頻道,#genre#
 東森幼幼,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
 緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
 華視,http://162.19.247.76:22222/live/huashi/index.m3u8
 中視,http://162.19.247.76:22222/live/zhongshi/index.m3u8
 台視,http://162.19.247.76:22222/live/taishi/index.m3u8
 
+油管新雯,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -15,12 +17,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 
-黃俊雄布袋戲,https://www.youtube.com/watch?v=lod9Okz4zo4
-龍兄虎弟,https://www.youtube.com/watch?v=sLJmDfYcO4Y
-鬼話連篇,https://www.youtube.com/watch?v=DWIvlaWTPE0
-細說台灣,https://www.youtube.com/watch?v=TqiSwxCk3MM
-國光幫幫忙,https://www.youtube.com/watch?v=-9nqcDZ5GAM
-
+油管直播,#genre#
 測試TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 測試東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 測試東森洋片,http://50.7.238.114:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
@@ -31,6 +28,12 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
+
+黃俊雄布袋戲,https://www.youtube.com/watch?v=lod9Okz4zo4
+龍兄虎弟,https://www.youtube.com/watch?v=sLJmDfYcO4Y
+鬼話連篇,https://www.youtube.com/watch?v=DWIvlaWTPE0
+細說台灣,https://www.youtube.com/watch?v=TqiSwxCk3MM
+國光幫幫忙,https://www.youtube.com/watch?v=-9nqcDZ5GAM
 
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
