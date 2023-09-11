@@ -17,6 +17,9 @@ CCTV免費頻道,https://tv.cctv.com/live
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
 
 電視直播源搜索
+緯來綜合 http://tonkiang.us/?s=緯來綜合
+
+電視直播源搜索
 50.7.238.114:8278
 http://tonkiang.us/?s=50.7.238.114:8278
 
