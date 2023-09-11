@@ -162,7 +162,6 @@ CNTV衛視,#genre#
 湖南衛視,https://cntv.sbs/tv?auth=2309081833&id=hunws
 北京衛視,https://cntv.sbs/tv?auth=2309081833&id=bjws
 東方衛視,https://cntv.sbs/tv?auth=2309081833&id=dfws
-
 三沙衛視,https://cntv.sbs/tv?auth=2309081833&id=ssws
 山西衛視https://cntv.sbs/tv?auth=2309081833&id=sxiws
 山東衛視,https://cntv.sbs/tv?auth=2309081833&id=sdws
@@ -194,18 +193,16 @@ CNTV衛視,#genre#
 廣西衛視,https://cntv.sbs/tv?auth=2309081833&id=gxws
 廣東衛視https://cntv.sbs/tv?auth=2309081833&id=gdws
 遼寧衛視,https://cntv.sbs/tv?auth=2309081833&id=lnws
-
-
 黑龍江衛視,https://cntv.sbs/tv?auth=2309081833&id=hljws
 
 CNTV其它,#genre#
-CHC動作電影,http://cntv.sbs/tv/cbn.php?id=chcdzdyHD
-CHC家庭影院,http://cntv.sbs/tv/cbn.php?id=chcjtyyHD
-CHC高清電影,http://cntv.sbs/tv/cbn.php?id=chcgqdyHD
 北京紀實科教,https://cntv.sbs/tv?auth=2309081833&id=bjjskj
 上海紀實人文,https://cntv.sbs/tv?auth=2309081833&id=shjsrw
 湖南金鹰紀實,https://cntv.sbs/tv?auth=2309081833&id=jyjs
-莲花衛視,https://cntv.sbs/tv/lhws.php
+CHC動作電影,http://cntv.sbs/tv/cbn.php?id=chcdzdyHD
+CHC家庭影院,http://cntv.sbs/tv/cbn.php?id=chcjtyyHD
+CHC高清電影,http://cntv.sbs/tv/cbn.php?id=chcgqdyHD
+蓮花衛視,https://cntv.sbs/tv/lhws.php
 
 
 
