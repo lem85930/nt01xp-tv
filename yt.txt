@@ -138,7 +138,7 @@ CCTV第一劇場,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/i
 CCTV電視指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
 CCTV懷舊劇場,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 
-央视,#genre#
+CNTV央視,#genre#
 CCTV-1综合,https://cntv.sbs/tv?auth=2309081833&id=cctv1
 CCTV-2财经,https://cntv.sbs/tv?auth=2309081833&id=cctv2
 CCTV-3综艺,https://cntv.sbs/tv?auth=2309081833&id=cctv3
@@ -161,7 +161,7 @@ CCTV-17农业农村,https://cntv.sbs/tv?auth=2309081833&id=cctv17
 CCTV-4K超高清,https://cntv.sbs/tv?auth=2309081833&id=cctv4k
 
 
-卫视,#genre#
+CNTV衛視,#genre#
 北京卫视,https://cntv.sbs/tv?auth=2309081833&id=bjws
 东方卫视,https://cntv.sbs/tv?auth=2309081833&id=dfws
 天津卫视,https://cntv.sbs/tv?auth=2309081833&id=tjws
@@ -199,65 +199,17 @@ CCTV-4K超高清,https://cntv.sbs/tv?auth=2309081833&id=cctv4k
 海南卫视,https://cntv.sbs/tv?auth=2309081833&id=hinws
 三沙卫视,https://cntv.sbs/tv?auth=2309081833&id=ssws
 海峡卫视,https://cntv.sbs/tv?auth=2309081833&id=hxws
-北京纪实科教,https://cntv.sbs/tv?auth=2309081833&id=bjjskj
 
-上海,#genre#
-五星体育,https://cntv.sbs/tv?auth=2309081833&id=wxty
-东方财经,https://cntv.sbs/tv?auth=2309081833&id=dfcj
-第一财经,https://cntv.sbs/tv?auth=2309081833&id=dycj
-法治天地,https://cntv.sbs/tv?auth=2309081833&id=fztd
-上海新闻综合,https://cntv.sbs/tv?auth=2309081833&id=shxwzh
-上海都市,https://cntv.sbs/tv?auth=2309081833&id=shds
-上海ICS外语,https://cntv.sbs/tv?auth=2309081833&id=shics
-纪实人文,https://cntv.sbs/tv?auth=2309081833&id=shjsrw
-七彩戏剧,https://cntv.sbs/tv?auth=2309081833&id=qcxj
-生活时尚,https://cntv.sbs/tv?auth=2309081833&id=shss
-金色学堂,https://cntv.sbs/tv?auth=2309081833&id=jspd
-上海教育,https://cntv.sbs/tv?auth=2309081833&id=shjy
-浦东电视台,https://cntv.sbs/tv?auth=2309081833&id=pdtv
-
-数字,#genre#
-哈哈炫动,https://cntv.sbs/tv?auth=2309081833&id=hhxd
-欢笑剧场,https://cntv.sbs/tv?auth=2309081833&id=hxjc
-都市剧场,https://cntv.sbs/tv?auth=2309081833&id=dsjc
-动漫秀场,https://cntv.sbs/tv?auth=2309081833&id=dmxc
-劲爆体育,https://cntv.sbs/tv?auth=2309081833&id=jbty
-新视觉,https://cntv.sbs/tv?auth=2309081833&id=xsj
-游戏风云,https://cntv.sbs/tv?auth=2309081833&id=yxfy
-乐游,https://cntv.sbs/tv?auth=2309081833&id=qjs
-魅力足球,https://cntv.sbs/tv?auth=2309081833&id=mlzq
-嘉佳卡通,https://cntv.sbs/tv?auth=2309081833&id=jjkt
-财富天下,https://cntv.sbs/tv?auth=2309081833&id=cftx
-中国天气,https://cntv.sbs/tv?auth=2309081833&id=zgtq
-
-湖南,#genre#
-快乐垂钓,https://cntv.sbs/tv?auth=2309081833&id=klcd
-金鹰纪实,https://cntv.sbs/tv?auth=2309081833&id=jyjs
-金鹰卡通,https://cntv.sbs/tv?auth=2309081833&id=jykt
-
-其他,#genre#
-看天下精选,https://cntv.sbs/tv?auth=2309081833&id=ktxjx
-华语影院,https://cntv.sbs/tv?auth=2309081833&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=2309081833&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=2309081833&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=2309081833&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=2309081833&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=2309081833&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=2309081833&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=2309081833&id=rmzy
-戏曲精选,https://cntv.sbs/tv?auth=2309081833&id=xqjx
-健康养生,https://cntv.sbs/tv?auth=2309081833&id=jkys
-百变课堂,https://cntv.sbs/tv?auth=2309081833&id=bbkt
-宝宝动画,https://cntv.sbs/tv?auth=2309081833&id=bbdh
-
-港澳,#genre#
-翡翠台,https://pi.0472.org/tv/fct.php?auth=2309081833
-明珠台,https://pi.0472.org/tv/mzt.php?auth=2309081833
-莲花卫视,https://cntv.sbs/tv/lhws.php
-
-电影,#genre#
+CNTV其它,#genre#
 CHC动作电影,http://cntv.sbs/tv/cbn.php?id=chcdzdyHD
 CHC家庭影院,http://cntv.sbs/tv/cbn.php?id=chcjtyyHD
 CHC高清电影,http://cntv.sbs/tv/cbn.php?id=chcgqdyHD
+北京纪实科教,https://cntv.sbs/tv?auth=2309081833&id=bjjskj
+纪实人文,https://cntv.sbs/tv?auth=2309081833&id=shjsrw
+金鹰纪实,https://cntv.sbs/tv?auth=2309081833&id=jyjs
+莲花卫视,https://cntv.sbs/tv/lhws.php
+
+
+
 
 
