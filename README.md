@@ -11,6 +11,8 @@ CCTV免費頻道,https://tv.cctv.com/live
 
 動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 
+動物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+
 電視直播源搜索 
 東森新聞 http://tonkiang.us/?s=東森新聞
 
