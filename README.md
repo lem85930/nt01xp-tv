@@ -9,6 +9,8 @@ CCTV免費頻道,https://tv.cctv.com/live
 電視直播源搜索
 動物星球 http://tonkiang.us/?s=動物星球
 
+動物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+
 電視直播源搜索 
 東森新聞 http://tonkiang.us/?s=東森新聞
 
