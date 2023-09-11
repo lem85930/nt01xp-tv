@@ -34,6 +34,7 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
 小豬佩琪,https://www.youtube.com/watch?v=m5HwUw2fBic
+寶寶巴士,https://www.youtube.com/watch?v=SGYI9MFOr2c
 
 9紀錄1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 9紀錄2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
