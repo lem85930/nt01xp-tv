@@ -39,11 +39,6 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 小豬佩琪,https://www.youtube.com/watch?v=m5HwUw2fBic
 寶寶巴士,https://www.youtube.com/watch?v=SGYI9MFOr2c
 
-纯享4k1,https://epg.pw/stream/acb37c9499648b3d821f0c919577b0b75df78d89b33c5f13461303913b3f9cdb.m3u8
-纯享4k2,https://epg.pw/stream/e36ddb2c52a27aafa553c686d78415c9e38fccd7a5b42dd55656157681635d46.m3u8
-
-cctv4k超高清,https://epg.pw/stream/f5eb14a1acb6d2934f2b03ff2e0ea54cf6d72b72a7f94dae4bdc2560d54ad2e0.m3u8
-
 9紀錄1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 9紀錄2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 9紀錄3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
