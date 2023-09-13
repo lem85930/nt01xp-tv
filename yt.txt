@@ -19,14 +19,12 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 
 油管直播,#genre#
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
-黃俊雄布袋戲,https://www.youtube.com/watch?v=lod9Okz4zo4
 龍兄虎弟,https://www.youtube.com/watch?v=sLJmDfYcO4Y
 鬼話連篇,https://www.youtube.com/watch?v=DWIvlaWTPE0
 細說台灣,https://www.youtube.com/watch?v=TqiSwxCk3MM
