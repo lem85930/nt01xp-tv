@@ -41,9 +41,6 @@ LINE測試,#genre#
 TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
 
-央視網,#genre#
-9紀錄,https://tv.cctv.com/live/cctvjilu
-10科教,https://tv.cctv.com/live/cctv10
 
 記錄頻道,#genre#
 9紀錄1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
