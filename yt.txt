@@ -20,6 +20,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+中文國際,https://www.youtube.com/watch?v=9sE12tg3CmA
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 
 油管直播,#genre#
