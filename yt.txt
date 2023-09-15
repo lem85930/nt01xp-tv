@@ -19,8 +19,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新聞1,https://www.youtube.com/watch?v=6IquAgfvYmc
-寰宇新聞2,https://www.youtube.com/watch?v=UcTIv4ZaE5Y
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 
