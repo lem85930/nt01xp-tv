@@ -36,20 +36,6 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 寶寶巴士,https://www.youtube.com/watch?v=SGYI9MFOr2c
 台灣啟示錄,https://www.youtube.com/watch?v=YKor8d0UK7c
 
-4GTV測試,#genre#
-TVBS新聞,https://www.4gtv.tv/channel/4gtv-live072?set=1&ch=129
-東森新聞,https://www.4gtv.tv/channel/4gtv-live114?set=2&ch=234
-亞洲旅遊,https://www.4gtv.tv/channel/litv-longturn17?set=4&ch=250
-愛爾達旅遊,https://www.4gtv.tv/channel/4gtv-live120?set=4&ch=237
-
-LINE測試,#genre#
-TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
-東森新聞,https://today.line.me/tw/v2/article/grrvVZ
-
-VPN新聞測試,#genre#
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-三立新聞,https://www.youtube.com/watch?v=FoBfXvlOR6I
-東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco
 
 記錄頻道,#genre#
 9紀錄1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
