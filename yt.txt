@@ -8,6 +8,8 @@
 動物星球2,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=19346&tsum=d8fc0ab62e1d97aaca4279883cb1101c
+CCTV4K超高清,http://cfss.cc:80/ds/ysp/qp.php?id=cctv4k&Cf.m3u8
+CCTV8K超高清,http://cfss.cc:80/ds/ysp/qp.php?id=cctv8k&Cf.m3u8
 
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
