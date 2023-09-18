@@ -47,11 +47,6 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 台灣啟示錄,https://www.youtube.com/watch?v=YKor8d0UK7c
 
-VPN新聞,#genre#
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-三立新聞,https://www.youtube.com/watch?v=FoBfXvlOR6I
-東森新聞,https://www.youtube.com/watch?v=R2iMq5LKXco
-
 記錄頻道,#genre#
 9紀錄1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 9紀錄2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
