@@ -17,7 +17,7 @@ CCTV8K,http://cfss.cc:80/ds/ysp/qp.php?id=cctv8k&Cf.m3u8
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes
-東森世界日報,https://www.youtube.com/watch?v=Dn-LI8xzu7I
+東森日報,https://www.youtube.com/watch?v=Dn-LI8xzu7I
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE
