@@ -17,7 +17,7 @@ CCTV8K,http://cfss.cc:80/ds/ysp/qp.php?id=cctv8k&Cf.m3u8
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes
-世界日報,https://www.youtube.com/watch?v=Dn-LI8xzu7I
+東森世界日報,https://www.youtube.com/watch?v=Dn-LI8xzu7I
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 三立財經,https://www.youtube.com/watch?v=CKjSm5ZeehE
@@ -28,9 +28,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 鳳凰衛視,https://www.youtube.com/watch?v=Q4J1ONrB3Do
 新唐人,https://www.youtube.com/watch?v=WIhgU_mc05A
-公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 中文國際,https://www.youtube.com/watch?v=9sE12tg3CmA
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 
@@ -44,6 +42,7 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
+公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 台灣啟示錄,https://www.youtube.com/watch?v=YKor8d0UK7c
 
 
