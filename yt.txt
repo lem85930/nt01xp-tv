@@ -60,6 +60,15 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 10科教4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 10科教5,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225685/1/index.m3u8?fmt=ts2hls
 
+江蘇衛視,#genre#
+江蘇1,http://111.40.196.28:443/PLTV/88888888/224/3221225578/1.m3u8
+江蘇2,http://111.40.196.30:443/PLTV/88888888/224/3221225596/1.m3u8
+江蘇3,http://111.40.196.32:443/PLTV/88888888/224/3221225578/1.m3u8
+江蘇4,http://111.40.196.34:443/PLTV/88888888/224/3221225596/1.m3u8
+江蘇5,http://111.40.196.39:443/PLTV/88888888/224/3221225517/1.m3u8
+江蘇6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
+江蘇7,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
+
 陝西移動,#genre#
 1綜合,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 1綜合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
