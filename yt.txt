@@ -44,7 +44,7 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 台灣啟示錄,https://www.youtube.com/watch?v=YKor8d0UK7c
 
-9記錄頻道,#genre#
+9記錄,#genre#
 9紀錄1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 9紀錄2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 9紀錄3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
@@ -53,7 +53,7 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 9紀錄6,http://111.40.196.35:443/PLTV/88888888/224/3221225502/1.m3u8
 9紀錄7,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226031/1/index.m3u8?fmt=ts2hls
 
-10科教頻道,#genre#
+10科教,#genre#
 10科教1,http://111.40.196.28:443/PLTV/88888888/224/3221225494/1.m3u8
 10科教2,http://111.40.196.32:443/PLTV/88888888/224/3221225494/1.m3u8
 10科教3,http://111.40.196.37:443/PLTV/88888888/224/3221225567/1.m3u8
