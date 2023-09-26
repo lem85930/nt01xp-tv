@@ -81,6 +81,8 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 湖南衛視,http://111.40.196.30:443/PLTV/88888888/224/3221225554/1.m3u8
 北京衛視,http://111.40.196.30:443/PLTV/88888888/224/3221225540/1.m3u8
 東方衛視,http://111.40.196.30:443/PLTV/88888888/224/3221225509/1.m3u8
+纯享4k1,https://epg.pw/stream/acb37c9499648b3d821f0c919577b0b75df78d89b33c5f13461303913b3f9cdb.m3u8
+纯享4k2,https://epg.pw/stream/e36ddb2c52a27aafa553c686d78415c9e38fccd7a5b42dd55656157681635d46.m3u8
 CCTV4K超高清,http://cfss.cc:80/ds/ysp/qp.php?id=cctv4k&Cf.m3u8
 CCTV8K超高清,http://cfss.cc:80/ds/ysp/qp.php?id=cctv8k&Cf.m3u8
 
