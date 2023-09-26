@@ -65,8 +65,6 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 3綜藝,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 4中文國際,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 4中文國際,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-4中文國際歐洲,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226266/1/index.m3u8?fmt=ts2hls
-4中文國際美洲,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
 5體育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 5+體育賽事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 5+體育賽事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
