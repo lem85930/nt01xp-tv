@@ -21,12 +21,12 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 大陸尋奇,https://www.youtube.com/watch?v=n2aila3gxuY
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
-歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
-象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
+象山看台北,https://www.youtube.com/watch?v=z_fY1pjVBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
+歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 
 9記錄,#genre#
 9紀錄1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
