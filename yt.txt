@@ -109,5 +109,5 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 
 
 純享4K,https://epg.pw/stream/e36ddb2c52a27aafa553c686d78415c9e38fccd7a5b42dd55656157681635d46.m3u8
-CCTV4K超高清,http://cfss.cc:80/ds/ysp/qp.php?id=cctv4k&Cf.m3u8
-CCTV8K超高清,http://cfss.cc:80/ds/ysp/qp.php?id=cctv8k&Cf.m3u8
+CCTV4K超高清,https://epg.pw/stream/4d337977e451ea0a0b34bb8739deb2f50eb7f71c54c13f74e9ba4353ca201916.m3u8
+CCTV8K超高清,https://epg.pw/stream/eb03c0272e94fb53fd644498ad3db5bac6d6c3e48bc1fa8920347626d588fbc0.m3u8
