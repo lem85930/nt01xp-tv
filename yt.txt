@@ -32,82 +32,88 @@ CCTV中文國際,https://www.youtube.com/watch?v=9sE12tg3CmA
 歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 
 央視衛視,#genre#
-1綜合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-1綜合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-2財經,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-2財經,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-3綜藝,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-4中文國際,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-4中文國際,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-5體育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-5+體育賽事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-5+體育賽事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-6電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-6電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-7國防軍事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-8電視劇,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-9紀錄,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-10科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-11戲曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-12社會與法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-13新聞,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-13新聞,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226454/index.m3u8
-14少兒,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-15音樂,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-16奧林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-17農業農村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-
-江蘇衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
-江蘇衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-浙江衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-浙江衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
-湖南衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
-湖南衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-北京衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-北京衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-東方衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
-東方衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-山東衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-山東衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-天津衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-安徽衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
-安徽衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
-重慶衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-深圳衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
-深圳衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-湖北衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-湖北衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
-廣東衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-廣東衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-遼寧衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
-遼寧衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
-黑龍江衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-黑龍江衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-黑龍江衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-
-CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-CCTV女性時尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
-CCTV文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
-CCTV台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
-CCTV風雲足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-CCTV風雲音樂,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-CCTV風雲劇場,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-CCTV高爾夫網球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
-CCTV第一劇場,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
-CCTV懷舊劇場,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-CCTV電視指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
-
-北京紀實科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-上海紀實人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-湖南金鷹紀實,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
-
-CHC高清電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC動作電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-
-測試訊號1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-測試訊號2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
+CCTV-1 綜合, http://159.75.85.63:5681/ sxg.php?id=CCTV-1H265_4000
+CCTV-2 財經, http://159.75.85.63:5681/ sxg.php?id=CCTV-2H265_4000
+CCTV-3 綜藝, http://159.75.85.63:5681/ sxg.php?id=CCTV-3H265_4000
+CCTV-4 中文國際, http://159.75.85.63:5681/ sxg.php?id=CCTV-4H265_4000
+CCTV-5 體育, http://159.75.85.63:5681/ sxg.php?id=CCTV-5H265_4000
+CCTV-5+ 體育賽事, http://159.75.85.63:5681/ sxg.php?id=CCTV-5plusH265_4000
+CCTV-6 電影, http://159.75.85.63:5681/ sxg.php?id=CCTV-6H265_4000
+CCTV-7 國防軍, http://159.75.85.63:5681/ sxg.php?id=CCTV-7H265_4000
+CCTV-8 電視劇, http://159.75.85.63:5681/ sxg.php?id=CCTV-8H265_4000
+CCTV-9 紀錄, http://159.75.85.63:5681/ sxg.php?id=CCTV-9H265_4000
+CCTV-10 科教, http://159.75.85.63:5681/ sxg.php?id=CCTV-10H265_4000
+CCTV-11 戲曲, http://159.75.85.63:5681/ sxg.php?id=CCTV-11-H265_4000
+CCTV-12 社會與法, http://159.75.85.63:5681/ sxg.php?id=CCTV-12H265_4000
+CCTV-13 新聞, http://159.75.85.63:5681/ sxg.php?id=CCTV-xw_4000
+CCTV-14 兒童, http://159.75.85.63:5681/ sxg.php?id=CCTV-14H265_4000
+CCTV-15 音樂, http://159.75.85.63:5681/ sxg.php?id=CCTV-15-yyH265_4000
+CCTV-16 奧林匹克, http://159.75.85.63:5681/ sxg.php?id=CCTV-16_4000
+CCTV-16 奧林匹克4K, http://159.75.85.63:5681/ sxg.php?id=CCTV-16-4K_8000
+CCTV-17 農業農村, http://159.75.85.63:5681/ sxg.php?id=CCTV-17_4000
+CCTV-4K 超高清, http://159.75.85.63:5681/ sxg.php?id=ys4Kcq_2000
+4K超高清電影4K, http://159.75.85.63:5681/ sxg.php?id=emdy4k_8000
+歡笑劇場4K, http://159.75.85.63: 5681/sxg.php?id=hxjc-4k_8000
+鳳凰中文, http://159.75.85.63:5681/ sxg.php?id=test1_4000
+鳳凰資訊, http://159.75.85.63:5681/ sxg.php?id=test2_4000
+安徽衛視, http://159.75.85.63:5681/ sxg.php?id=ahwsH265_4000
+北京衛視, http://159.75.85.63:5681/ sxg.php?id=bjwsH265_4000
+兵團衛視, http://159.75.85.63:5681/ sxg.php?id=btws_4000
+重慶衛視, http://159.75.85.63:5681/ sxg.php?id=cqwsH265_4000
+東方衛視, http://159.75.85.63:5681/ sxg.php?id=dfwsH265_4000
+東南衛視, http://159.75.85.63:5681/ sxg.php?id=dnwsfjwsH265_4000
+甘肅衛視, http://159.75.85.63:5681/ sxg.php?id=gsws_4000
+廣東衛視, http://159.75.85.63:5681/ sxg.php?id=gdwsH265_4000
+廣西衛視, http://159.75.85.63:5681/ sxg.php?id=gxws_4000
+貴州衛視, http://159.75.85.63:5681/ sxg.php?id=gzwsH265_4000
+海南衛視, http://159.75.85.63:5681/ sxg.php?id=hnws_4000
+河南衛視, http://159.75.85.63:5681/ sxg.php?id=hnws35_4000
+黑龍江衛視, http://159.75.85.63: 5681/sxg.php?id=hljwsH265_4000
+湖北衛視, http://159.75.85.63:5681/ sxg.php?id=hbwsH265_4000
+湖南衛視, http://159.75.85.63:5681/ sxg.php?id=hnwsH265_4000
+吉林衛視, http://159.75.85.63:5681/ sxg.php?id=jlwsH265_4000
+江蘇衛視, http://159.75.85.63:5681/ sxg.php?id=jswsH265_4000
+江西衛視, http://159.75.85.63:5681/ sxg.php?id=jxwsH265_4000
+康巴衛視, http://159.75.85.63:5681/ sxg.php?id=kbwsH264_2000
+遼寧衛視, http://159.75.85.63:5681/ sxg.php?id=lnwsHDH264_4000
+內蒙古衛視, http://159.75.85.63: 5681/sxg.php?id=nmgws_4000
+山東教育衛視, http://159.75.85.63: 5681/sxg.php?id=sdjy_4000
+山東衛視, http://159.75.85.63:5681/ sxg.php?id=sdwsH265_4000
+山西衛視, http://159.75.85.63:5681/ sxg.php?id=sxws42_4000
+陝西衛視, http://159.75.85.63:5681/ sxg.php?id=sxws_4000
+深圳衛視, http://159.75.85.63:5681/ sxg.php?id=szwsH265_4000
+四川衛視, http://159.75.85.63:5681/ sxg.php?id=scwsH265_4000
+天津衛視, http://159.75.85.63:5681/ sxg.php?id=tjwsH265_4000
+西藏衛視, http://159.75.85.63:5681/ sxg.php?id=xzwsH264_2000
+雲南衛視, http://159.75.85.63:5681/ sxg.php?id=ynws_4000
+浙江衛視, http://159.75.85.63:5681/ sxg.php?id=zjwsH265_4000
+CETV-1，http://159.75.85.63: 5681/sxg.php?id=CETV- 1H264_4000
+CHC動作電影, http://159.75.85.63: 5681/sxg.php?id=wqCHCdzdyH265_ 4000
+CHC高清電影, http://159.75.85.63: 5681/sxg.php?id=lnwsCHC- HDH265_4000
+CHC家庭劇院, http://159.75.85.63: 5681/sxg.php?id= jbtygqCHCjtyyH265_4000
+動漫秀場, http://159.75.85.63:5681/ sxg.php?id=yybb-dmxc-H265_4000
+都市劇場, http://159.75.85.63:5681/ sxg.php?id=yxfydsjcHDH265_4000
+法治天地, http://159.75.85.63:5681/ sxg.php?id=fztx_4000
+極速汽車, http://159.75.85.63:5681/ sxg.php?id=jsqcH265_4000
+紀實科教, http://159.75.85.63:5681/ sxg.php?id=bjjs_2000
+嘉佳卡通, http://159.75.85.63:5681/ sxg.php?id=jjkt_2000
+家庭理財, http://159.75.85.63:5681/ sxg.php?id=jtlc_4000
+江蘇財富天下, http://159.75.85.63: 5681/sxg.php?id=cftx_4000
+金鷹紀實, http://159.75.85.63:5681/ sxg.php?id=jyjsHDH265_4000
+金鷹卡通, http://159.75.85.63:5681/ sxg.php?id=jykt_2000
+勁爆體育, http://159.75.85.63:5681/ sxg.php?id=lqhxjcHDH265_4000
+卡酷少​​兒, http://159.75.85.63:5681/ sxg.php?id=kkkt_4000
+快樂釣魚, http://159.75.85.63:5681/ sxg.php?id=fyzqklcdHDH265_4000
+樂遊, http://159.75.85.63:5681/ sxg.php?id=qjs-HDH265_4000
+梨園頻道, http://159.75.85.63:5681/ sxg.php?id=ly_4000
+魅力足球, http://159.75.85.63:5681/ sxg.php?id=mlyy_4000
+攝影頻道, http://159.75.85.63:5681/ sxg.php?id=sy_4000
+生活時尚, http://159.75.85.63:5681/ sxg.php?id=shssH265_4000
+四海釣魚, http://159.75.85.63:5681/ sxg.php?id=shdy_4000
+天元圍棋, http://159.75.85.63:5681/ sxg.php?id=tywq_2000
+武術世界, http://159.75.85.63:5681/ sxg.php?id=wssj_4000
+先鋒乒羽, http://159.75.85.63:5681/ sxg.php?id=xfpy_4000
+新視覺, http://159.75.85.63:5681/ sxg.php?id=ycxsjH265_4000
 
 
 
