@@ -31,7 +31,7 @@ CCTV中文國際,https://www.youtube.com/watch?v=9sE12tg3CmA
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 
-央视,#genre#
+CNTV央視,#genre#
 1綜合,https://cntv.sbs/tv?auth=230927&id=cctv1
 2財經,https://cntv.sbs/tv?auth=230927&id=cctv2
 3綜藝,https://cntv.sbs/tv?auth=230927&id=cctv3
@@ -53,7 +53,7 @@ CCTV中文國際,https://www.youtube.com/watch?v=9sE12tg3CmA
 CCTV4K超高清,https://cntv.sbs/tv?auth=230927&id=cctv4k
 16奧林匹克4K,https://cntv.sbs/tv?auth=230927&id=cctv164k
 
-卫视,#genre#
+CNTV衛視,#genre#
 江蘇衛視,https://cntv.sbs/tv?auth=230927&id=jsws
 浙江衛視,https://cntv.sbs/tv?auth=230927&id=zjws
 湖南衛視,https://cntv.sbs/tv?auth=230927&id=hunws
