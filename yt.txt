@@ -15,7 +15,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+CCTV中文國際,https://www.youtube.com/watch?v=9sE12tg3CmA
 
 油管直播,#genre#
 大陸尋奇,https://www.youtube.com/watch?v=n2aila3gxuY
