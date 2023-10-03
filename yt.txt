@@ -58,10 +58,8 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=230927&id=cctv164k
 东方卫视,https://cntv.sbs/tv?auth=230927&id=dfws
 天津卫视,https://cntv.sbs/tv?auth=230927&id=tjws
 重庆卫视,https://cntv.sbs/tv?auth=230927&id=cqws
-黑龙江卫视,https://cntv.sbs/tv?auth=230927&id=hljws
 吉林卫视,https://cntv.sbs/tv?auth=230927&id=jlws
 辽宁卫视,https://cntv.sbs/tv?auth=230927&id=lnws
-内蒙古卫视,https://cntv.sbs/tv?auth=230927&id=nmws
 宁夏卫视,https://cntv.sbs/tv?auth=230927&id=nxws
 甘肃卫视,https://cntv.sbs/tv?auth=230927&id=gsws
 青海卫视,https://cntv.sbs/tv?auth=230927&id=qhws
@@ -91,6 +89,9 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=230927&id=cctv164k
 海南卫视,https://cntv.sbs/tv?auth=230927&id=hinws
 三沙卫视,https://cntv.sbs/tv?auth=230927&id=ssws
 海峡卫视,https://cntv.sbs/tv?auth=230927&id=hxws
+内蒙古卫视,https://cntv.sbs/tv?auth=230927&id=nmws
+黑龙江卫视,https://cntv.sbs/tv?auth=230927&id=hljws
+
 北京纪实科教,https://cntv.sbs/tv?auth=230927&id=bjjskj
 五星体育,https://cntv.sbs/tv?auth=230927&id=wxty
 东方财经,https://cntv.sbs/tv?auth=230927&id=dfcj
@@ -99,7 +100,7 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=230927&id=cctv164k
 上海新闻综合,https://cntv.sbs/tv?auth=230927&id=shxwzh
 上海都市,https://cntv.sbs/tv?auth=230927&id=shds
 上海ICS外语,https://cntv.sbs/tv?auth=230927&id=shics
-纪实人文,https://cntv.sbs/tv?auth=230927&id=shjsrw
+上海纪实人文,https://cntv.sbs/tv?auth=230927&id=shjsrw
 七彩戏剧,https://cntv.sbs/tv?auth=230927&id=qcxj
 生活时尚,https://cntv.sbs/tv?auth=230927&id=shss
 金色学堂,https://cntv.sbs/tv?auth=230927&id=jspd
@@ -118,11 +119,6 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=230927&id=cctv164k
 财富天下,https://cntv.sbs/tv?auth=230927&id=cftx
 中国天气,https://cntv.sbs/tv?auth=230927&id=zgtq
 快乐垂钓,https://cntv.sbs/tv?auth=230927&id=klcd
-金鹰纪实,https://cntv.sbs/tv?auth=230927&id=jyjs
+湖南金鹰纪实,https://cntv.sbs/tv?auth=230927&id=jyjs
 金鹰卡通,https://cntv.sbs/tv?auth=230927&id=jykt
 
-
-
-純享4K,https://epg.pw/stream/e36ddb2c52a27aafa553c686d78415c9e38fccd7a5b42dd55656157681635d46.m3u8
-CCTV4K超高清,https://epg.pw/stream/4d337977e451ea0a0b34bb8739deb2f50eb7f71c54c13f74e9ba4353ca201916.m3u8
-CCTV8K超高清,https://epg.pw/stream/eb03c0272e94fb53fd644498ad3db5bac6d6c3e48bc1fa8920347626d588fbc0.m3u8
