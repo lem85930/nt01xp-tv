@@ -54,6 +54,9 @@ CCTV-4K 超高清,https://cntv.sbs/tv?auth=230927&id=cctv4k
 CCTV-16 4K,https://cntv.sbs/tv?auth=230927&id=cctv164k
 
 卫视,#genre#
+江苏卫视,https://cntv.sbs/tv?auth=230927&id=jsws
+浙江卫视,https://cntv.sbs/tv?auth=230927&id=zjws
+湖南卫视,https://cntv.sbs/tv?auth=230927&id=hunws
 北京卫视,https://cntv.sbs/tv?auth=230927&id=bjws
 东方卫视,https://cntv.sbs/tv?auth=230927&id=dfws
 天津卫视,https://cntv.sbs/tv?auth=230927&id=tjws
@@ -70,10 +73,7 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=230927&id=cctv164k
 安徽卫视,https://cntv.sbs/tv?auth=230927&id=ahws
 河南卫视,https://cntv.sbs/tv?auth=230927&id=hnws
 湖北卫视,https://cntv.sbs/tv?auth=230927&id=hubws
-湖南卫视,https://cntv.sbs/tv?auth=230927&id=hunws
 江西卫视,https://cntv.sbs/tv?auth=230927&id=jxws
-江苏卫视,https://cntv.sbs/tv?auth=230927&id=jsws
-浙江卫视,https://cntv.sbs/tv?auth=230927&id=zjws
 东南卫视,https://cntv.sbs/tv?auth=230927&id=dnws
 厦门卫视,https://cntv.sbs/tv?auth=230927&id=xmws
 广东卫视,https://cntv.sbs/tv?auth=230927&id=gdws
@@ -93,32 +93,7 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=230927&id=cctv164k
 黑龙江卫视,https://cntv.sbs/tv?auth=230927&id=hljws
 
 北京纪实科教,https://cntv.sbs/tv?auth=230927&id=bjjskj
-五星体育,https://cntv.sbs/tv?auth=230927&id=wxty
-东方财经,https://cntv.sbs/tv?auth=230927&id=dfcj
-第一财经,https://cntv.sbs/tv?auth=230927&id=dycj
-法治天地,https://cntv.sbs/tv?auth=230927&id=fztd
-上海新闻综合,https://cntv.sbs/tv?auth=230927&id=shxwzh
-上海都市,https://cntv.sbs/tv?auth=230927&id=shds
-上海ICS外语,https://cntv.sbs/tv?auth=230927&id=shics
 上海纪实人文,https://cntv.sbs/tv?auth=230927&id=shjsrw
-七彩戏剧,https://cntv.sbs/tv?auth=230927&id=qcxj
-生活时尚,https://cntv.sbs/tv?auth=230927&id=shss
-金色学堂,https://cntv.sbs/tv?auth=230927&id=jspd
-上海教育,https://cntv.sbs/tv?auth=230927&id=shjy
-浦东电视台,https://cntv.sbs/tv?auth=230927&id=pdtv
-哈哈炫动,https://cntv.sbs/tv?auth=230927&id=hhxd
-欢笑剧场,https://cntv.sbs/tv?auth=230927&id=hxjc
-都市剧场,https://cntv.sbs/tv?auth=230927&id=dsjc
-动漫秀场,https://cntv.sbs/tv?auth=230927&id=dmxc
-劲爆体育,https://cntv.sbs/tv?auth=230927&id=jbty
-新视觉,https://cntv.sbs/tv?auth=230927&id=xsj
-游戏风云,https://cntv.sbs/tv?auth=230927&id=yxfy
-乐游,https://cntv.sbs/tv?auth=230927&id=qjs
-魅力足球,https://cntv.sbs/tv?auth=230927&id=mlzq
-嘉佳卡通,https://cntv.sbs/tv?auth=230927&id=jjkt
-财富天下,https://cntv.sbs/tv?auth=230927&id=cftx
-中国天气,https://cntv.sbs/tv?auth=230927&id=zgtq
-快乐垂钓,https://cntv.sbs/tv?auth=230927&id=klcd
 湖南金鹰纪实,https://cntv.sbs/tv?auth=230927&id=jyjs
-金鹰卡通,https://cntv.sbs/tv?auth=230927&id=jykt
+
 
