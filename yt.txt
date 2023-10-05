@@ -32,14 +32,14 @@ CCTV中文國際,https://www.youtube.com/watch?v=9sE12tg3CmA
 歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 
 百視通,#genre#
-CCTV1 8M,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2 8M,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3 8M,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4 8M,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5 8M,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+ 8M,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV6 8M,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7 8M,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+1綜合,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+2財經,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+3綜藝,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv38m/8000000/mnf.m3u8
+4中文國際,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+5體育,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv58m/8000000/mnf.m3u8
+5+體育賽事,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+6電影,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+7國防軍事,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
 CCTV8 8M,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 CCTV9 8M,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 CCTV10 8M,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
