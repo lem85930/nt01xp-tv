@@ -10,6 +10,7 @@
 
 測試區,#genre#
 壹新聞,https://www.histar.tv/live/nexttv
+東森新聞LINE,https://today.line.me/tw/v2/article/grrvVZ
 
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
