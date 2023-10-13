@@ -39,6 +39,9 @@ NHK WORLD-JAPAN News,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 歡喜玉玲龍,https://www.youtube.com/watch?v=r_wsMgFLKys
 
 貴州移動,#genre#
+CHC高清電影,http://111.20.40.160/PLTV/88888893/224/3221226463/1.m3u8
+CHC動作電影,http://111.20.40.160/PLTV/88888893/224/3221226465/1.m3u8
+CHC家庭影院,http://111.20.40.160/PLTV/88888893/224/3221226462/1.m3u8
 1綜合,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 1綜合,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 2財經,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
