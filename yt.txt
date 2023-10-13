@@ -772,7 +772,3 @@ DOXTV,https://live.goodiptv.club/api/cqyx.php?id=doxtv
 荣昌综合,https://live.goodiptv.club/api/cqyx.php?id=rczh
 秀山综合,https://live.goodiptv.club/api/cqyx.php?id=xszh
 
-測試區,#genre#
-壹新聞,https://www.histar.tv/live/nexttv
-東森新聞LINE,https://today.line.me/tw/v2/article/grrvVZ
-東森新聞4GTV,https://www.4gtv.tv/channel/4gtv-live114?set=4&ch=234
