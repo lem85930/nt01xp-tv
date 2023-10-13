@@ -8,11 +8,6 @@
 中視,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 台視,https://youtu.be/uDqQo8a7Xmk
 
-測試區,#genre#
-壹新聞,https://www.histar.tv/live/nexttv
-東森新聞LINE,https://today.line.me/tw/v2/article/grrvVZ
-東森新聞4GTV,https://www.4gtv.tv/channel/4gtv-live114?set=4&ch=234
-
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes
@@ -27,6 +22,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 CCTV中文國際,https://www.youtube.com/watch?v=9sE12tg3CmA
+KansaiNews24,https://www.youtube.com/watch?v=iNPUWKft7hA
+TBS NEWS,https://www.youtube.com/watch?v=ohI356mwBp8
+JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+NHK WORLD-JAPAN News,https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
 油管直播,#genre#
 大陸尋奇,https://www.youtube.com/watch?v=n2aila3gxuY
@@ -772,3 +771,8 @@ DOXTV,https://live.goodiptv.club/api/cqyx.php?id=doxtv
 铜梁综合,https://live.goodiptv.club/api/cqyx.php?id=tlzh
 荣昌综合,https://live.goodiptv.club/api/cqyx.php?id=rczh
 秀山综合,https://live.goodiptv.club/api/cqyx.php?id=xszh
+
+測試區,#genre#
+壹新聞,https://www.histar.tv/live/nexttv
+東森新聞LINE,https://today.line.me/tw/v2/article/grrvVZ
+東森新聞4GTV,https://www.4gtv.tv/channel/4gtv-live114?set=4&ch=234
