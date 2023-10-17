@@ -6,6 +6,8 @@ CCTV免費頻道,https://tv.cctv.com/live
 
 小雲機上盒使用教學 https://6868c.cc
 
+易播機上盒使用教學 https://6868jx.com
+
 電視直播源搜索
 動物星球 http://tonkiang.us/?s=動物星球
 
