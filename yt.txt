@@ -20,6 +20,11 @@ CCTV8K,http://cfss.cc/api/ysp/cctv8k.m3u8
 16奧林匹克,http://cfss.cc/api/ysp/cctv16.m3u8
 17農業農村,http://cfss.cc/api/ysp/cctv17.m3u8
 
+江蘇衛視,http://cfss.cc/api/ysp/jsws.m3u8
+浙江衛視,http://cfss.cc/api/ysp/zjws.m3u8
+北京衛視,http://cfss.cc/api/ysp/bjws.m3u8
+東方衛視,http://cfss.cc/api/ysp/dfws.m3u8
+
 Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 東森新聞50,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 東森新聞198,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MA1A9044461290444612&ct=19634&tsum=eff500421e3581699b927717223af139
