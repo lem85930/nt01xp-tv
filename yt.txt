@@ -121,4 +121,6 @@ CCTV懷舊劇場,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 東森新聞4gtv,https://www.4gtv.tv/channel/4gtv-live114?set=4&ch=234
 9紀錄星視界,https://www.histar.tv/live/cctv9
 靖天日本台,https://yeslivetv.com/channels/goldentv-japan
+東森1,https://live.fanmingming.com/player/?vurl=https://www.4gtv.tv/channel/4gtv-live114?set=4&ch=234
+東森2,https://live.fanmingming.com/player/?vurl=https://today.line.me/tw/v2/article/grrvVZ
 
