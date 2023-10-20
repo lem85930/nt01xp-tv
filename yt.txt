@@ -20,7 +20,6 @@ CCTV8K,http://cfss.cc/api/ysp/cctv8k.m3u8
 15音樂,http://cfss.cc/api/ysp/cctv15.m3u8
 16奧林匹克,http://cfss.cc/api/ysp/cctv16.m3u8
 17農業農村,http://cfss.cc/api/ysp/cctv17.m3u8
-
 江蘇衛視,http://cfss.cc/api/ysp/jsws.m3u8
 浙江衛視,http://cfss.cc/api/ysp/zjws.m3u8
 湖南衛視,https://cfss.cc/Cf/ysp/fnws.m3u8
