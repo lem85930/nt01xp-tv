@@ -63,9 +63,6 @@ CCTV中文國際,https://www.youtube.com/watch?v=9sE12tg3CmA
 北京紀實科教,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226105/1/index.m3u8?fmt=ts2hls
 上海紀實人文,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls
 湖南金鶯紀實,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226064/1/index.m3u8?fmt=ts2hls
-CHC高清電影,http://111.20.40.160/PLTV/88888893/224/3221226463/1.m3u8
-CHC動作電影,http://111.20.40.160/PLTV/88888893/224/3221226465/1.m3u8
-CHC家庭影院,http://111.20.40.160/PLTV/88888893/224/3221226462/1.m3u8
 1綜合,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 1綜合,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 2財經,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
