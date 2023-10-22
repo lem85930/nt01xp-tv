@@ -1,15 +1,11 @@
 常看頻道,#genre#
-
-
+CCTV4K超高清,http://cfss.cc/api/ysp/cctv4k.m3u8
+CCTV8K超高清,http://cfss.cc/api/ysp/cctv8k.m3u8
 Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 東森新聞50,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 東森新聞198,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MA1A9044461290444612&ct=19634&tsum=eff500421e3581699b927717223af139
-動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
 緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
-華視,http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MAFA1309481213094812&ct=19226&tsum=429f7c40691cdcc6c1fb108dbd11e002
-中視,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
-台視,https://youtu.be/uDqQo8a7Xmk
 
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
