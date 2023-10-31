@@ -1,3 +1,7 @@
+范明明IPTV4
+https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/global.m3u
+
+
 4GTV免費頻道,https://www.4gtv.tv/channel?channelSet_id=4
 
 CCTV免費頻道,https://tv.cctv.com/live
