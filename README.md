@@ -4,6 +4,10 @@
 
 東森幼幼,https://www.histar.tv/live/ebc-yoyo
 
+東森洋片,https://www.histar.tv/live/ebc-emovie
+
+好萊塢電影,https://www.histar.tv/live/hollywood-tw
+
 范明明IPTV4
 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/global.m3u
 
