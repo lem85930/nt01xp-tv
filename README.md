@@ -2,6 +2,8 @@
 
 緯來綜合,https://www.histar.tv/live/videoland
 
+東森幼幼,https://www.histar.tv/live/ebc-yoyo
+
 范明明IPTV4
 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/global.m3u
 
