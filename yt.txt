@@ -1,9 +1,5 @@
 常看頻道,#genre#
-a5b42dd55656157681635d46.m3u8
-CCTV4K超高清,http://cfss.cc/api/ysp/cctv4k.m3u8
-CCTV8K超高清,http://cfss.cc/api/ysp/cctv8k.m3u8
-CCTV4K,https://tv.iill.top/bestv/cctv4k
-CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+
 東森新聞50,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 東森新聞198,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MA1A9044461290444612&ct=19634&tsum=eff500421e3581699b927717223af139
 
