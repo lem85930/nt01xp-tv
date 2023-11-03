@@ -1,5 +1,5 @@
 常看頻道,#genre#
-純享4K,https://epg.pw/stream/e36ddb2c52a27aafa553c686d78415c9e38fccd7a5b42dd55656157681635d46.m3u8
+a5b42dd55656157681635d46.m3u8
 CCTV4K超高清,http://cfss.cc/api/ysp/cctv4k.m3u8
 CCTV8K超高清,http://cfss.cc/api/ysp/cctv8k.m3u8
 CCTV4K,https://tv.iill.top/bestv/cctv4k
