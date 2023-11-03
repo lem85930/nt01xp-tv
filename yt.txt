@@ -122,37 +122,7 @@ CCTV16-4K,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cct
 
 
 
-m3u8
-湖南衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-北京衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-北京衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-東方衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
-東方衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-山東衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-山東衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-天津衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-安徽衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
-安徽衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
-重慶衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-深圳衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
-深圳衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-湖北衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-湖北衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
-廣東衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-廣東衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-遼寧衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
-遼寧衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
-黑龍江衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-黑龍江衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-黑龍江衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 
-北京紀實科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-上海紀實人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-湖南金鷹紀實,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
-
-CHC高清電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC動作電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 
 
 
