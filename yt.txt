@@ -29,6 +29,20 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
 
+香港頻道,#genre#
+翡翠台,http://bziyunshao.synology.me:8889/bysid/1
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+J2台,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
+無綫財經體育資訊台,http://bziyunshao.synology.me:8890/bysid/85
+ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
+ViuTV,http://bziyunshao.synology.me:8889/bysid/99
+HOYtv资讯,http://bziyunshao.synology.me:8891/bysid/77
+HOYTV资讯,http://bziyunshao.synology.me:8891/bysid/78
+RTHK31,http://bziyunshao.synology.me:8892/bysid/31
+RTHK32,http://bziyunshao.synology.me:8892/bysid/32
+香港國際財經台,http://bziyunshao.synology.me:8891/bysid/76
+
 陝西移動,#genre#
 北京紀實科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 上海紀實人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
