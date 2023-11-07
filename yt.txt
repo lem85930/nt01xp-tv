@@ -124,9 +124,6 @@ CCTV第一劇場,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/i
 CCTV懷舊劇場,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 CCTV電視指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
 
-測試訊號1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-測試訊號2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
-
 貴州移動,#genre#
 北京紀實科教,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226075/1/index.m3u8?fmt=ts2hls
 北京紀實科教,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226105/1/index.m3u8?fmt=ts2hls
