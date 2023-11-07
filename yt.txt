@@ -32,6 +32,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
 24/7 LIVE NES,https://www.youtube.com/watch?v=SMHu1wElgcw
 24/7 LIVE SNES,https://www.youtube.com/watch?v=hPSYJFr4Nm8
+包青天,https://www.youtube.com/watch?v=sCu5fJqtL1s
+新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
 
 香港頻道,#genre#
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
