@@ -1,4 +1,6 @@
 常看頻道,#genre#
+CCTV4K,http://cfss.cc/api/ysp/cctv4k.m3u8
+CCTV8K,http://cfss.cc/api/ysp/cctv8k.m3u8
 CCTV4K1,http://cfss.cc/api/ysp/cctv4k.m3u8
 CCTV4K2,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV4K3,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
