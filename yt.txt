@@ -34,6 +34,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 24/7 SFC超級任天堂,https://www.youtube.com/watch?v=hPSYJFr4Nm8
 包青天,https://www.youtube.com/watch?v=sCu5fJqtL1s
 新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
+火車,https://www.youtube.com/watch?v=g7CJ3pm-e7s
 
 香港頻道,#genre#
 翡翠台,http://bziyunshao.synology.me:8889/bysid/1
