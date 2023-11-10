@@ -10,8 +10,6 @@ TVBS新聞,rtmp://9sv1.mine.nu:1935/sat/tv551
 緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
 八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 動物星球,http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-東森新聞50,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
-東森新聞198,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MA1A9044461290444612&ct=19634&tsum=eff500421e3581699b927717223af139
 CCTV4K超高清,http://cfss.cc/api/ysp/cctv4k.m3u8
 CCTV8K超高清,http://cfss.cc/api/ysp/cctv4k.m3u8
 CCTV4K,https://epg.pw/stream/e36ddb2c52a27aafa553c686d78415c9e38fccd7a5b42dd55656157681635d46.m3u8
