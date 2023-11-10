@@ -3,7 +3,7 @@
    "type": 0,
    "boot": true,
    "playerType": 1,
-   "url": "https://raw.githubusercontent.com/nt01xp/tv/main/yt.txt",
+   "url": "https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
    "logo": "https://epg.112114.xyz/logo/{name}.png"
   }
