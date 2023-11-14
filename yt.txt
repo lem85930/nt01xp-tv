@@ -1,5 +1,9 @@
 常看頻道,#genre#
+東森新聞,http://38.207.160.104:11012/live.php?date=231108&id=ebc-news
 東森幼幼,http://38.207.160.104:11012/live.php?date=231108&id=ebc-yoyo
+緯來日本,http://38.207.160.104:11012/live.php?date=231108&id=videoland-japan
+動物星球,http://38.207.160.104:11012/live.php?date=231108&id=animal-planet
+
 緯來日本,rtmp://9sv1.mine.nu:1935/sat/tv771
 緯來育樂,rtmp://9sv1.mine.nu:1935/sat/tv701
 緯來體育,rtmp://9sv1.mine.nu:1935/sat/tv721
