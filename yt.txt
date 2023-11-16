@@ -32,7 +32,6 @@ TVBS新聞,rtmp://9sv1.mine.nu:1935/sat/tv551
 高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
 24/7 FC任天堂,https://www.youtube.com/watch?v=SMHu1wElgcw
 24/7 SFC超級任天堂,https://www.youtube.com/watch?v=hPSYJFr4Nm8
-新兵日記,https://www.youtube.com/watch?v=bn7glmBPmIQ
 火車,https://www.youtube.com/watch?v=g7CJ3pm-e7s
 
 
