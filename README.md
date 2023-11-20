@@ -54,6 +54,12 @@ http://tonkiang.us/?s=50.7.238.114:8278
 
 http://tonkiang.us/?s=http://198.16.100.90:8278
 
+電視直播源搜索引擎  iptv.luas.edu.cn
+
+http://tonkiang.us/?s=http://iptv.luas.edu.cn
+
+
+
 
 
 
