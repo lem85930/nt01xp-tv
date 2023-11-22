@@ -63,6 +63,9 @@ http://tonkiang.us/?s=cfss.cc/api/ysp
 http://tonkiang.us/?s=ott.mobaibox.com/PLTV
 
 
+電視直播源搜索引擎  iptv/smttv.php?id=
+
+http://tonkiang.us/?s=iptv/smttv.php?id=
 
 
 
