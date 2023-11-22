@@ -254,7 +254,3 @@ CHC高清电影,https://cntv.lat/tv/live.php?auth=231110&id=chcgqdyHD
 9紀錄星視界,https://www.histar.tv/live/cctv9
 靖天日本台,https://yeslivetv.com/channels/goldentv-japan
 
-
-4K央视频,https://yspapp.cn/2t
-
-8K央视频,https://yspapp.cn/1jZw
