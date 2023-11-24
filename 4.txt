@@ -1,6 +1,8 @@
-
+4K8K,#genre#
 CCTV4K,http://cfss.cc/api/ysp/cctv4k.m3u8
 CCTV8K,http://cfss.cc/api/ysp/cctv8k.m3u8
+
+央視頻道,#genre#
 1綜合,http://cfss.cc/api/ysp/cctv1.m3u8
 2財經,http://cfss.cc/api/ysp/cctv2.m3u8
 3綜藝,http://cfss.cc/api/ysp/cctv3.m3u8
@@ -21,6 +23,7 @@ CCTV8K,http://cfss.cc/api/ysp/cctv8k.m3u8
 16奧林匹克4K,https://cfss.cc/Cf/ysp/cctv164k.m3u8
 17農業農村,http://cfss.cc/api/ysp/cctv17.m3u8
 
+衛視頻道,#genre#
 江蘇衛視,http://cfss.cc/api/ysp/jsws.m3u8
 浙江衛視,http://cfss.cc/api/ysp/zjws.m3u8
 湖南衛視,https://cfss.cc/Cf/ysp/fnws.m3u8
@@ -45,6 +48,7 @@ CCTV8K,http://cfss.cc/api/ysp/cctv8k.m3u8
 遼寧衛視,https://cfss.cc/Cf/ysp/lnws.m3u8
 黑龍江衛視,https://cfss.cc/Cf/ysp/hljws.m3u8
 
+收費頻道,#genre#
 世界地理,https://cfss.cc/Cf/ysp/sjdl.m3u8
 央視文化,https://cfss.cc/Cf/ysp/whjp.m3u8
 央視台球,https://cfss.cc/Cf/ysp/ystq.m3u8
