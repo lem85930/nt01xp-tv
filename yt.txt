@@ -1,6 +1,5 @@
 常看頻道,#genre#
 
-大陸尋奇,https://www.youtube.com/live/fl1iFkAWcVU
 台視,https://www.youtube.com/live/uDqQo8a7Xmk?si=0pkI2zUoWEsvfKXh
 緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
 八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
@@ -11,7 +10,8 @@
 無線新聞,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 
 油管新聞,#genre#
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+大陸尋奇,https://www.youtube.com/live/fl1iFkAWcVUTVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
