@@ -1,3 +1,5 @@
+
+央視V4,#genre#
 1綜合,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 1綜合,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls
 2財經,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
@@ -30,10 +32,16 @@
 15音樂,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
 17農業農村,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 
+
+
+紀實V4,#genre#
 北京紀實科教,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226075/1/index.m3u8?fmt=ts2hls
 北京紀實科教,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226105/1/index.m3u8?fmt=ts2hls
 上海紀實人文,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls
 湖南金鶯紀實,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226064/1/index.m3u8?fmt=ts2hls
+
+
+衛視V4,#genre#
 江蘇衛視,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
 浙江衛視,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225750/1/index.m3u8?fmt=ts2hls
 浙江衛視,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225780/1/index.m3u8?fmt=ts2hls
@@ -61,6 +69,9 @@
 遼寧衛視,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
 黑龍江衛視,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225758/1/index.m3u8?fmt=ts2hls
 
+
+
+收費V4,#genre#
 CCTV世界地理,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 CCTV世界地理,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 CCTV兵器科技,http://39.136.17.118/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
