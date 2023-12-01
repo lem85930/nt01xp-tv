@@ -41,8 +41,12 @@ parse=1
 動物星球,https://www.histar.tv/live/animal-planet
 parse=1
 壹新聞,https://www.histar.tv/live/nexttv
-
-
+parse=1
+華視,https://www.histar.tv/live/cts
+parse=1
+中視,https://www.histar.tv/live/ctv
+parse=1
+台視,https://www.histar.tv/live/ttv
 
 NODE央視,#genre#
 1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
