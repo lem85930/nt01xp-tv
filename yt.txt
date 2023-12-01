@@ -30,7 +30,7 @@ parse=1
 24/7 FC任天堂,https://www.youtube.com/watch?v=SMHu1wElgcw
 24/7 SFC超級任天堂,https://www.youtube.com/watch?v=hPSYJFr4Nm8
 
-民事7台,#genre#
+民視7台,#genre#
 parse=1
 民視,https://embed.4gtv.tv/ftv/FTV.html
 parse=1
