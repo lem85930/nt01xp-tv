@@ -30,6 +30,22 @@ parse=1
 24/7 FC任天堂,https://www.youtube.com/watch?v=SMHu1wElgcw
 24/7 SFC超級任天堂,https://www.youtube.com/watch?v=hPSYJFr4Nm8
 
+民事7台,#genre#
+parse=1
+民視,https://embed.4gtv.tv/ftv/FTV.html
+parse=1
+民視第一台,https://embed.4gtv.tv/ftv/FMTV.html
+parse=1
+民視台灣台,https://embed.4gtv.tv/ftv/FTTV.html
+parse=1
+民視新聞台,https://embed.4gtv.tv/ftv/FTVNews.html
+parse=1
+民視影劇台,https://embed.4gtv.tv/ftv/FTVDrama.html
+parse=1
+民視綜藝台,https://embed.4gtv.tv/ftv/FTVVariety.html
+parse=1
+民視旅遊台,https://embed.4gtv.tv/ftv/FTVTravel.html
+
 網頁嗅探,#genre#
 parse=1
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
