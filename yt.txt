@@ -75,8 +75,6 @@ parse=1
 TVB星河台,https://www.histar.tv/live/tvb-xinghe
 parse=1
 TVB娛樂新聞台,https://www.histar.tv/live/TVB%20ylxw
-parse=1
-官網TVB新聞台,https://news.tvb.com/tc/live/83
 
 NODE央視,#genre#
 1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
