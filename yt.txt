@@ -32,7 +32,7 @@ parse=1
 
 網頁嗅探,#genre#
 parse=1
-靖天日本,https://yeslivetv.com/channels/goldentv-japan/
+靖天日本,https://yeslivetv.com/channels/goldentv-japan
 parse=1
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
 parse=1
