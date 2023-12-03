@@ -77,8 +77,8 @@ parse=1
 高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
 24/7 FC任天堂,https://www.youtube.com/watch?v=SMHu1wElgcw
 24/7 SFC超級任天堂,https://www.youtube.com/watch?v=hPSYJFr4Nm8
-FC瑪莉歐2,https://www.youtube.com/watch?v=BZSjpVEdH6Y
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
+FC瑪莉歐2,https://www.youtube.com/watch?v=BZSjpVEdH6Y
 
 NODE央視,#genre#
 1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
