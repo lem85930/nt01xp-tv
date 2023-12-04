@@ -45,10 +45,6 @@ parse=1
 TVB星河台,https://www.histar.tv/live/tvb-xinghe
 parse=1
 TVB娛樂新聞台,https://www.histar.tv/live/TVB%20ylxw
-parse=1
-亞洲旅遊,https://www.4gtv.tv/channel/litv-longturn17?set=4&ch=250
-parse=1
-愛爾達旅遊,https://www.4gtv.tv/channel/4gtv-live120?set=4&ch=237
 
 常看頻道,#genre#
 台視,https://www.youtube.com/live/uDqQo8a7Xmk?si=0pkI2zUoWEsvfKXh
