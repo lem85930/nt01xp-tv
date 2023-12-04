@@ -12,12 +12,6 @@ parse=1
 parse=1
 壹新聞,https://www.histar.tv/live/nexttv
 parse=1
-華視,https://www.histar.tv/live/cts
-parse=1
-中視,https://www.histar.tv/live/ctv
-parse=1
-台視,https://www.histar.tv/live/ttv
-parse=1
 東森綜合,https://www.histar.tv/live/ebc-ettv
 parse=1
 東森電影,https://www.histar.tv/live/ebc-movie
