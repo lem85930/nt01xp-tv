@@ -65,6 +65,11 @@ parse=1
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 FC瑪莉歐2,https://www.youtube.com/watch?v=BZSjpVEdH6Y
 天堂鳥,https://youtu.be/2x0fkmDUGMk?si=FtQrzL763Nf1TiP6
+奇蹟之石,https://youtu.be/zKaPoG-RBbY?si=s7jj5mkW_ZDBhWx-
+綠色兵團,https://youtu.be/yylV0u6b7M0?si=WoSvy1vqaktjjp4O
+影子傳說,https://youtu.be/KYioWZfSABE?si=1gMB1inpYx-8a0zP
+東海道五十三次,https://youtu.be/JTbc_SZ-Mks?si=cE365-6SKWLrmKxE
+地底探險,https://youtu.be/j2_Rb4qqSoo?si=vkVmERmhVl8w1Yeh
 
 
 NODE央視,#genre#
