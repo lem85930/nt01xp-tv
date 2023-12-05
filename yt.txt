@@ -64,16 +64,16 @@ parse=1
 24/7 SFC超級任天堂,https://www.youtube.com/watch?v=hPSYJFr4Nm8
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 FC瑪莉歐2,https://www.youtube.com/watch?v=BZSjpVEdH6Y
-天堂鳥,https://youtu.be/2x0fkmDUGMk?si=FtQrzL763Nf1TiP6
-奇蹟之石,https://youtu.be/zKaPoG-RBbY?si=s7jj5mkW_ZDBhWx-
-綠色兵團,https://youtu.be/yylV0u6b7M0?si=WoSvy1vqaktjjp4O
-影子傳說,https://youtu.be/KYioWZfSABE?si=1gMB1inpYx-8a0zP
-東海道五十三次,https://youtu.be/JTbc_SZ-Mks?si=cE365-6SKWLrmKxE
-地底探險,https://youtu.be/j2_Rb4qqSoo?si=vkVmERmhVl8w1Yeh
-未來戰士,https://youtu.be/F4JL6ieCJ4U?si=VtmMTArL_gELmwSJ
-阿拉丁,https://youtu.be/ASptLOH-N20?si=xwMhohs0u1jVx8wQ
-超級銀行戰士,https://youtu.be/tCydlhP3UTo?si=C-wLFOjWePj-8SwQ
-創世封魔錄,https://youtu.be/GnrvOzsLJDI?si=i4EZ0jm4V9BKhWi_
+天堂鳥,https://www.youtube.com/watch?v=FtQrzL763Nf1TiP6
+奇蹟之石,https://www.youtube.com/watch?v=s7jj5mkW_ZDBhWx-
+綠色兵團,https://www.youtube.com/watch?v=WoSvy1vqaktjjp4O
+影子傳說,https://www.youtube.com/watch?v=1gMB1inpYx-8a0zP
+東海道五十三次,https://www.youtube.com/watch?v=cE365-6SKWLrmKxE
+地底探險,https://www.youtube.com/watch?v=vkVmERmhVl8w1Yeh
+未來戰士,https://www.youtube.com/watch?v=VtmMTArL_gELmwSJ
+阿拉丁,https://www.youtube.com/watch?v=xwMhohs0u1jVx8wQ
+超級銀行戰士,https://www.youtube.com/watch?v=C-wLFOjWePj-8SwQ
+創世封魔錄,https://www.youtube.com/watch?v=i4EZ0jm4V9BKhWi_
 
 
 NODE央視,#genre#
