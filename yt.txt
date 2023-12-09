@@ -63,7 +63,6 @@ parse=1
 24/7 FC任天堂,https://www.youtube.com/watch?v=SMHu1wElgcw
 24/7 SFC超級任天堂,https://www.youtube.com/watch?v=hPSYJFr4Nm8
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
-FC瑪莉歐2,https://www.youtube.com/watch?v=BZSjpVEdH6Y
 天堂鳥,https://www.youtube.com/watch?v=2x0fkmDUGMk
 奇蹟之石,https://www.youtube.com/watch?v=zKaPoG-RBbY
 綠色兵團,https://www.youtube.com/watch?v=yylV0u6b7M0
@@ -72,28 +71,10 @@ FC瑪莉歐2,https://www.youtube.com/watch?v=BZSjpVEdH6Y
 東海道五十三次,https://www.youtube.com/watch?v=JTbc_SZ-Mks
 地底探險,https://www.youtube.com/watch?v=j2_Rb4qqSoo
 阿拉丁,https://www.youtube.com/watch?v=ASptLOH-N20
-超級銀行戰士,https://www.youtube.com/watch?v=tCydlhP3UTo
+超級銀行河戰士,https://www.youtube.com/watch?v=tCydlhP3UTo
 
 
-NODE央視,#genre#
-1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-2財經,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-X3綜藝,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
-X4中文國際,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
-5體育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-5+體育賽事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-X6電影,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-7國防軍事,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-8電視劇,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-9紀錄,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-10科教,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-X11戲曲,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
-X12社會與法,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
-X13新聞,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-X14少兒,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
-X15音樂,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
-X16奧林匹克,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
-17農業農村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+
 
 
 4K專區,#genre#
