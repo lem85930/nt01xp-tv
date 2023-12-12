@@ -58,11 +58,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 無間道2,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=89384ae07baeca6058fb78a109258c45e98ebe6905a998618652ec293e3e8d05016c1ce7a6cce9e0e5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=a9059eaeabf4c71810b79f4a70a4f9bc&rx=17590&expire=1702381711429&ip=210.240.21.111&sign=c32fdee4ddb21ad56964836f984d24fc&_ts=1702356511429
 無間道3,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=8556056ad7d096be3cacb9b63a9a55b8899190840f2791df8b964c3ce88f82dd4eb6fadf04a77dece5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=c2ec46010158afaf17b9f4808b69cde3&rx=15922&expire=1702381750745&ip=210.240.21.111&sign=8fbc6d7b087b11b679124b41900a0d48&_ts=1702356550745
 
-猛龍過江,https://vip.lz-cdn7.com/20221213/12667_57d061da/index.m3u8
-精武門,https://cdn.1080pzy.co/20210717/IOLvj6eA/index.m3u8
-唐山大兄,https://jx1.kemi.lol:2087/Api/qp/kmzy-1752d36395e4816855957709f32a5f2b.m3u8
-龍爭虎鬥,https://s1.1080pzy.co/20210818/VzX3FMk7/index.m3u8
-
 油管直播,#genre#
 大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
