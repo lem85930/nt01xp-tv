@@ -50,6 +50,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 
 油管直播,#genre#
+蠟筆小新超能力大決戰,https://v8.suonizy-youku.com/202312/05/0GjAghp4941/video/index.m3u8
 大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
