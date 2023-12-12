@@ -51,6 +51,12 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 電影直播,#genre#
 蠟筆小新超能力大決戰,https://v8.suonizy-youku.com/202312/05/0GjAghp4941/video/index.m3u8
+唐人街探案1,
+唐人街探案2,
+唐人街探案1,
+無間道1,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=f187ab4fac7fa4d07de081ad2b2f4af0c177f4f8a3bf190ff7e2c2e053fb9df1951e8a24875b630ee5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=faacbd29f6005ca3f244102eaec4e14c&rx=12410&expire=1702381663948&ip=210.240.21.111&sign=2a789724b00b00d96f95e91191497086&_ts=1702356463948
+無間道2,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=89384ae07baeca6058fb78a109258c45e98ebe6905a998618652ec293e3e8d05016c1ce7a6cce9e0e5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=a9059eaeabf4c71810b79f4a70a4f9bc&rx=17590&expire=1702381711429&ip=210.240.21.111&sign=c32fdee4ddb21ad56964836f984d24fc&_ts=1702356511429
+無間道3,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=8556056ad7d096be3cacb9b63a9a55b8899190840f2791df8b964c3ce88f82dd4eb6fadf04a77dece5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=c2ec46010158afaf17b9f4808b69cde3&rx=15922&expire=1702381750745&ip=210.240.21.111&sign=8fbc6d7b087b11b679124b41900a0d48&_ts=1702356550745
 報告班長1,https://www.youtube.com/watch?v=JufWQPmgTM0
 報告班長2,https://www.youtube.com/watch?v=Pwy8PFlaWP8
 報告班長3,https://www.youtube.com/watch?v=lJs8pSqGsxw
