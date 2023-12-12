@@ -10,8 +10,6 @@ parse=1
 parse=1
 動物星球,https://www.histar.tv/live/animal-planet
 
-
-
 常看頻道,#genre#
 台視,https://www.youtube.com/live/uDqQo8a7Xmk?si=0pkI2zUoWEsvfKXh
 緯來綜合,http://211.23.114.106:8518/http/61.221.81.94:8088/hls/68/810/ch32.m3u8
@@ -31,15 +29,9 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 
 電影直播,#genre#
-蠟筆小新超能力大決戰,https://v8.suonizy-youku.com/202312/05/0GjAghp4941/video/index.m3u8
-
 唐人街探案1,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=bb646591f1e858f6a8fef363f7126a404b5fb618f4b78ee2be34c908997806307b493de53c4256d3e5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=71871b6fc29968bfa42479b0baf9279c&rx=8046&expire=1702381789858&ip=210.240.21.111&sign=b6a1c745e1a7c540f6550b1e4a412344&_ts=1702356589858
 唐人街探案2,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=d8255d0af7e0e49865f2bf5ee907d4c1626572bf0040d8479953a35e23e838fd9ec5d60628bff874e5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=ccad60f4c7ffeb985a3de4bed2890252&rx=16754&expire=1702381862749&ip=210.240.21.111&sign=cf8261ec64b03c1e23d25fb91ff59280&_ts=1702356662749
 唐人街探案3,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=ba56a88295940ed4b197221a4b7901a0253f64caa3dc13f66a9825b46f498251aea727b7fa090e33e5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=7fc7b61a8760436d0b28dd6fbeb4fe89&rx=2990&expire=1702381889171&ip=210.240.21.111&sign=73b58b68a12557bfec2d0e9aaa553172&_ts=1702356689171
-
-無間道1,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=f187ab4fac7fa4d07de081ad2b2f4af0c177f4f8a3bf190ff7e2c2e053fb9df1951e8a24875b630ee5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=faacbd29f6005ca3f244102eaec4e14c&rx=12410&expire=1702381663948&ip=210.240.21.111&sign=2a789724b00b00d96f95e91191497086&_ts=1702356463948
-無間道2,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=89384ae07baeca6058fb78a109258c45e98ebe6905a998618652ec293e3e8d05016c1ce7a6cce9e0e5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=a9059eaeabf4c71810b79f4a70a4f9bc&rx=17590&expire=1702381711429&ip=210.240.21.111&sign=c32fdee4ddb21ad56964836f984d24fc&_ts=1702356511429
-無間道3,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=8556056ad7d096be3cacb9b63a9a55b8899190840f2791df8b964c3ce88f82dd4eb6fadf04a77dece5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=c2ec46010158afaf17b9f4808b69cde3&rx=15922&expire=1702381750745&ip=210.240.21.111&sign=8fbc6d7b087b11b679124b41900a0d48&_ts=1702356550745
 
 油管直播,#genre#
 大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
@@ -61,8 +53,6 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
 東海道五十三次,https://www.youtube.com/watch?v=JTbc_SZ-Mks
 月風魔傳,https://www.youtube.com/watch?v=0hmmFpxggpc
-
-
 
 4K專區,#genre#
 純享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
