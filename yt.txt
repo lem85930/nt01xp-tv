@@ -51,6 +51,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 油管直播,#genre#
 蠟筆小新超能力大決戰,https://v8.suonizy-youku.com/202312/05/0GjAghp4941/video/index.m3u8
+報告班長1,https://www.youtube.com/watch?v=JufWQPmgTM0
 報告班長2,https://www.youtube.com/watch?v=Pwy8PFlaWP8
 大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
