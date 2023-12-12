@@ -56,6 +56,8 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 報告班長3,https://www.youtube.com/watch?v=lJs8pSqGsxw
 報告班長4,https://www.youtube.com/watch?v=WDSVRY2V17Q
 猛龍過江,https://vip.lz-cdn7.com/20221213/12667_57d061da/index.m3u8
+精武門,https://cdn.1080pzy.co/20210717/IOLvj6eA/index.m3u8
+龍爭虎鬥,https://s1.1080pzy.co/20210818/VzX3FMk7/index.m3u8
 
 油管直播,#genre#
 大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
