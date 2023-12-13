@@ -24,11 +24,11 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 唐人街探案3,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=ba56a88295940ed4b197221a4b7901a0253f64caa3dc13f66a9825b46f498251aea727b7fa090e33e5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=7fc7b61a8760436d0b28dd6fbeb4fe89&rx=2990&expire=1702381889171&ip=210.240.21.111&sign=73b58b68a12557bfec2d0e9aaa553172&_ts=1702356689171
 
 油管直播,#genre#
+九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 新兵日記,https://www.youtube.com/watch?v=hbm8Uov-YOE
-九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 挪威火車,https://www.youtube.com/watch?v=g7CJ3pm-e7s
 ?si=Wqeci4wTF6GuUT96
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
