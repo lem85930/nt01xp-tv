@@ -31,10 +31,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
-天堂鳥,https://www.youtube.com/watch?v=2x0fkmDUGMk
-奇蹟之石,https://www.youtube.com/watch?v=zKaPoG-RBbY
-東海道五十三次,https://www.youtube.com/watch?v=JTbc_SZ-Mks
-月風魔傳,https://www.youtube.com/watch?v=0hmmFpxggpc
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 無線新聞,http://live.cooltv.top/tv/tvb.php?id=0
 無線財經,http://live.cooltv.top/tv/tvb.php?id=2
