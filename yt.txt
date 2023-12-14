@@ -18,11 +18,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 台視,https://www.youtube.com/live/uDqQo8a7Xmk?si=0pkI2zUoWEsvfKXh
 
-電影直播,#genre#
-唐人街探案1,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=bb646591f1e858f6a8fef363f7126a404b5fb618f4b78ee2be34c908997806307b493de53c4256d3e5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=71871b6fc29968bfa42479b0baf9279c&rx=8046&expire=1702381789858&ip=210.240.21.111&sign=b6a1c745e1a7c540f6550b1e4a412344&_ts=1702356589858
-唐人街探案2,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=d8255d0af7e0e49865f2bf5ee907d4c1626572bf0040d8479953a35e23e838fd9ec5d60628bff874e5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=ccad60f4c7ffeb985a3de4bed2890252&rx=16754&expire=1702381862749&ip=210.240.21.111&sign=cf8261ec64b03c1e23d25fb91ff59280&_ts=1702356662749
-唐人街探案3,https://api.nivodz.com/play/mud.m3u8/WEB/1.0?ce=ba56a88295940ed4b197221a4b7901a0253f64caa3dc13f66a9825b46f498251aea727b7fa090e33e5245e3070ced9d69f94d23bea838afc71f55feefb1decf62c143cb1b6dc6859093aee09f28e51fb216d91b1c318d211&pf=3&uk=7fc7b61a8760436d0b28dd6fbeb4fe89&rx=2990&expire=1702381889171&ip=210.240.21.111&sign=73b58b68a12557bfec2d0e9aaa553172&_ts=1702356689171
-
 油管直播,#genre#
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
