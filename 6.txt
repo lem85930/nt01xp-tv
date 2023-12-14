@@ -1,3 +1,15 @@
+NODE央視,#genre#
+1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+2財經,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+5體育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+5+體育賽事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+7國防軍事,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+8電視劇,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+9紀錄,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+10科教,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+13新聞,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+17農業農村,https://node1.olelive.com:6443/l
+
 4K專區,#genre#
 純享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
