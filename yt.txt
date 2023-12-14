@@ -40,6 +40,7 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 奇蹟之石,https://www.youtube.com/watch?v=zKaPoG-RBbY
 東海道五十三次,https://www.youtube.com/watch?v=JTbc_SZ-Mks
 月風魔傳,https://www.youtube.com/watch?v=0hmmFpxggpc
+TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 4K專區,#genre#
 純享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
