@@ -25,8 +25,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 新兵日記,https://www.youtube.com/watch?v=hbm8Uov-YOE
-挪威火車,https://www.youtube.com/watch?v=g7CJ3pm-e7s
-?si=Wqeci4wTF6GuUT96
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
@@ -34,7 +32,6 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 無線新聞,http://live.cooltv.top/tv/tvb.php?id=0
-無線財經,http://live.cooltv.top/tv/tvb.php?id=2
 
 4K專區,#genre#
 純享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
