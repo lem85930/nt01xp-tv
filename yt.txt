@@ -6,6 +6,7 @@ TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 東森幼幼,https://www.histar.tv/live/ebc-yoyo
 動物星球,https://www.histar.tv/live/animal-planet
 蠟筆小新,https://www.ofiii.com/channel/watch/ofiii165
+吳青峰起風了,https://youtu.be/4o0BD1KUL5g?si=3nYNP1wgCwQ2f6Ny
 
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
