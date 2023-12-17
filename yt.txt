@@ -5,8 +5,6 @@ TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 緯來日本,https://www.histar.tv/live/videoland-japan
 東森幼幼,https://www.histar.tv/live/ebc-yoyo
 動物星球,https://www.histar.tv/live/animal-planet
-吳青峰起風了,https://youtu.be/4o0BD1KUL5g?si=3nYNP1wgCwQ2f6Ny
-
 
 4GTVBS新聞,https://www.4gtv.tv/channel/4gtv-live072?set=4&ch=129
 4G東森新聞,https://www.4gtv.tv/channel/4gtv-live114?set=4&ch=234
@@ -24,8 +22,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-
 
 油管直播,#genre#
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
@@ -40,6 +36,9 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 無線新聞,http://live.cooltv.top/tv/tvb.php?id=0
+台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
+吳青峰起風了,https://youtu.be/4o0BD1KUL5g?si=3nYNP1wgCwQ2f6Ny
+
 
 4K專區,#genre#
 純享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
