@@ -9,6 +9,9 @@ TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 TVBS新聞,https://yeslivetv.com/channels/tvbs55
 CN卡通,https://yeslivetv.com/channels/cartoon-network
 靖天日本,https://yeslivetv.com/channels/goldentv-japan
+衛視中文台,https://yeslivetv.com/channels/star-chinese-channel
+緯來日本,https://yeslivetv.com/channels/videoland-japan
+緯來育樂,https://yeslivetv.com/channels/videoland-maxtv
 緯來體育,https://yeslivetv.com/channels/videoland-sports
 
 4GTV嗅探,#genre#
