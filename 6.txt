@@ -18,6 +18,33 @@ bestv央視,#genre#
 16奧林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
 17農業農村,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
+bestv衛視,#genre#
+江蘇衛視,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+浙江衛視,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
+湖南衛視,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
+北京衛視,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
+東方衛視,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+山東衛視,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
+天津衛視,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
+四川衛視,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
+甘肅衛視,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
+吉林衛視,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
+安徽衛視,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
+江西衛視,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
+東南衛視,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
+河北衛視,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
+河南衛視,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+重慶衛視,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
+海南衛視,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
+深圳衛視,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
+湖北衛視,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
+貴州衛視,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
+雲南衛視,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
+廣西衛視,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
+廣東衛視,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
+遼寧衛視,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
+黑龍江衛視,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
+
 
 央視6頻道,#genre#
 1綜合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
