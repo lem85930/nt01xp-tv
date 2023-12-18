@@ -27,6 +27,8 @@ CCTV免費頻道,https://tv.cctv.com/live
 
 Yes Live TV,https://yeslivetv.com/
 
+港灣直播,http://everydaytv.top/list.html
+
 安博機上盒使用教學 https://ub6789.com
 
 小雲機上盒使用教學 https://6868c.cc
