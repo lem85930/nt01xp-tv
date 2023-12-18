@@ -62,7 +62,7 @@ bestv紀實,#genre#
 湖南金鹰紀實,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
 上海紀實人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 
-央視頻道,#genre#
+央視6頻道,#genre#
 1綜合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 1綜合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 2財經,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -88,7 +88,7 @@ bestv紀實,#genre#
 16奧林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 17農業農村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
-衛視頻道,#genre#
+衛視6頻道,#genre#
 江蘇衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
 江蘇衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 浙江衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
@@ -117,17 +117,17 @@ bestv紀實,#genre#
 黑龍江衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 黑龍江衛視,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 
-電影頻道,#genre#
+電影6頻道,#genre#
 CHC高清電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC動作電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 
-紀實頻道,#genre#
+紀實6頻道,#genre#
 北京紀實科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 上海紀實人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 湖南金鷹紀實,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 
-收費頻道,#genre#
+收費6頻道,#genre#
 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
 女性時尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
 文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
