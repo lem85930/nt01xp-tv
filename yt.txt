@@ -16,8 +16,8 @@ TVBS新聞,http://everydaytv.top/play-3-167-0.html
 
 4GTV嗅探,#genre#
 parse=1
-4GTVBS新聞,https://www.4gtv.tv/channel/4gtv-live072?set=4&ch=129
 4G東森新聞,https://www.4gtv.tv/channel/4gtv-live114?set=4&ch=234
+4GTVBS新聞,https://www.4gtv.tv/channel/4gtv-live072?set=4&ch=129
 4G亞洲旅遊,https://www.4gtv.tv/channel/litv-longturn17?set=4&ch=250
 4G愛爾達旅遊,https://www.4gtv.tv/channel/4gtv-live120?set=4&ch=237
 
