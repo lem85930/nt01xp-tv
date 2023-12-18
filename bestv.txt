@@ -51,9 +51,9 @@ bestv衛視,#genre#
 黑龍江衛視,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
 
 bestv紀實,#genre#
-北京紀實科教 8M ,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-湖南金鹰紀實 8M ,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-上海紀實人文 8M ,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
+北京紀實科教,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+湖南金鹰紀實,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
+上海紀實人文,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 欢笑剧场 8M ,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
 劲爆体育 8M ,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 快乐垂钓 8M ,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
