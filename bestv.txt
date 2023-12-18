@@ -50,11 +50,13 @@ bestv衛視,#genre#
 遼寧衛視,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 黑龍江衛視,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
 
-其他,#genre#
+bestv紀實,#genre#
+北京紀實科教 8M ,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
+湖南金鹰紀實 8M ,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
+上海紀實人文 8M ,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 欢笑剧场 8M ,https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
 劲爆体育 8M ,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 快乐垂钓 8M ,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
-金鹰纪实 8M ,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
 戏曲精选 8M ,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
 上视新闻 8M ,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 东方影视 8M ,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
@@ -82,7 +84,6 @@ bestv衛視,#genre#
 中国教育-1 8M ,https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
 中国教育-4 8M ,https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
 卡酷少儿 8M ,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-纪实科教 8M ,https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
 茶频道 8M ,https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
 足球高清 8M ,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
 炫动卡通 8M ,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
@@ -92,9 +93,6 @@ bestv衛視,#genre#
 法治天地 8M ,https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
 金色学堂 8M ,https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
 魅力足球 8M ,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
-
-上海,#genre#
 上海第一财经 8M ,https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
 上海都市 8M ,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-上海纪实 8M ,https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
 上海教育 8M ,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
