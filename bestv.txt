@@ -24,7 +24,6 @@ bestv央視,#genre#
 17農業農村,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
 bestv衛視,#genre#
-衛視,#genre#
 江蘇衛視,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
 浙江衛視,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 湖南衛視,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
