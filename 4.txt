@@ -10,6 +10,26 @@ NODE央視,#genre#
 13新聞,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 17農業農村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
+bestv央視,#genre#
+1綜合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
+2財經,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+3綜藝,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+4中文國際,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+5體育,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+5+體育賽事,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+6電影,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+7國防軍事,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
+8電視劇,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+9紀錄,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+10科教,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+11戲曲,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+12社會與法,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
+13新聞,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
+14少兒,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
+15音樂,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+16奧林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+17農業農村,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+
 央視4頻道,#genre#
 1綜合,,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 1綜合,,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
