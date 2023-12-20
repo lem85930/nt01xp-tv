@@ -43,6 +43,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
 24/7任天堂,https://www.youtube.com/watch?v=0kdtvLXrX_Q
 24/7超級任天堂,https://www.youtube.com/watch?v=FQhExGXfD70
+24/7GAMEBOY,https://www.youtube.com/watch?v=abCfe9AIts4
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
