@@ -2,6 +2,9 @@
 parse=1
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
 TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
+
+星視界嗅探,#genre#
+parse=1
 緯來日本,https://www.histar.tv/live/videoland-japan
 東森幼幼,https://www.histar.tv/live/ebc-yoyo
 
