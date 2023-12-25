@@ -13,6 +13,7 @@ parse=1
 yeslivetv嗅探,#genre#
 parse=1
 靖天日本,https://yeslivetv.com/channels/goldentv-japan
+卡通頻道,https://yeslivetv.com/channels/cartoon-network
 
 
 DAY嗅探,#genre#
