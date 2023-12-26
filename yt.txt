@@ -47,12 +47,6 @@ TVBS新聞,http://everydaytv.top/play-3-167-0.html
 年代新聞,http://everydaytv.top/play-3-139-0.html
 卡通頻道,http://everydaytv.top/play-3-106-0.html
 
-yeslivetv嗅探,#genre#
-parse=1
-緯來日本,https://yeslivetv.com/channels/videoland-japan
-靖天日本,https://yeslivetv.com/channels/goldentv-japan
-卡通頻道,https://yeslivetv.com/channels/cartoon-network
-
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=S5WOGu2HSes
