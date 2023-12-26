@@ -1,6 +1,5 @@
 嗅探,#genre#
 parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1,tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://epg.112114.xyz/logo/CCTV1综合.png" group-title="CCTV1综合",CCTV1综合
 https://yangshipin.cn/#/tv/home?pid=600001859
 #EXTINF:-1,tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://epg.112114.xyz/logo/CCTV2财经.png" group-title="CCTV2财经",CCTV2财经
