@@ -1,3 +1,45 @@
+嗅探,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1,tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://epg.112114.xyz/logo/CCTV1综合.png" group-title="CCTV1综合",CCTV1综合
+https://yangshipin.cn/#/tv/home?pid=600001859
+#EXTINF:-1,tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://epg.112114.xyz/logo/CCTV2财经.png" group-title="CCTV2财经",CCTV2财经
+https://yangshipin.cn/#/tv/home?pid=600001800
+#EXTINF:-1,tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://epg.112114.xyz/logo/CCTV3综艺.png" group-title="CCTV3综艺",CCTV3综艺
+https://yangshipin.cn/#/tv/home?pid=600001801
+#EXTINF:-1,tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV4中文国际.png" group-title="CCTV4中文国际",CCTV4中文国际
+https://yangshipin.cn/#/tv/home?pid=600001814
+#EXTINF:-1,tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://epg.112114.xyz/logo/CCTV5体育.png" group-title="CCTV5体育",CCTV5体育
+https://yangshipin.cn/#/tv/home?pid=600001818
+#EXTINF:-1,tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://epg.112114.xyz/logo/CCTV6电影.png" group-title="CCTV6电影",CCTV6电影
+https://yangshipin.cn/#/tv/home?pid=600001802
+#EXTINF:-1,tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://epg.112114.xyz/logo/CCTV7国防军事.png" group-title="CCTV7国防军事",CCTV7国防军事
+https://yangshipin.cn/#/tv/home?pid=600004092
+#EXTINF:-1,tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://epg.112114.xyz/logo/CCTV8电视剧.png" group-title="CCTV8电视剧",CCTV8电视剧
+https://yangshipin.cn/#/tv/home?pid=600001803
+#EXTINF:-1,tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://epg.112114.xyz/logo/CCTV9纪录.png" group-title="CCTV9纪录",CCTV9纪录
+https://yangshipin.cn/#/tv/home?pid=600004078
+#EXTINF:-1,tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://epg.112114.xyz/logo/CCTV10科教.png" group-title="CCTV10科教",CCTV10科教
+https://yangshipin.cn/#/tv/home?pid=600001805
+#EXTINF:-1,tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://epg.112114.xyz/logo/CCTV11戏曲.png" group-title="CCTV11戏曲",CCTV11戏曲
+https://yangshipin.cn/#/tv/home?pid=600001806
+#EXTINF:-1,tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://epg.112114.xyz/logo/CCTV12社会与法.png" group-title="CCTV12社会与法",CCTV12社会与法
+https://yangshipin.cn/#/tv/home?pid=600001807
+#EXTINF:-1,tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://epg.112114.xyz/logo/CCTV13新闻.png" group-title="CCTV13新闻",CCTV13新闻
+https://yangshipin.cn/#/tv/home?pid=600001811
+#EXTINF:-1,tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://epg.112114.xyz/logo/CCTV14少儿.png" group-title="CCTV14少儿",CCTV14少儿
+https://yangshipin.cn/#/tv/home?pid=600001809
+#EXTINF:-1,tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://epg.112114.xyz/logo/CCTV15音乐.png" group-title="CCTV15音乐",CCTV15音乐
+https://yangshipin.cn/#/tv/home?pid=600001815
+#EXTINF:-1,tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://epg.112114.xyz/logo/CCTV16奥林匹克.png" group-title="CCTV16奥林匹克",CCTV16奥林匹克
+https://yangshipin.cn/#/tv/home?pid=600098637
+#EXTINF:-1,tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://epg.112114.xyz/logo/CCTV17农业农村.png" group-title="CCTV17农业农村",CCTV17农业农村
+https://yangshipin.cn/#/tv/home?pid=600001810
+#EXTINF:-1,tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://epg.112114.xyz/logo/CCTV5+体育赛事.png" group-title="CCTV5+体育赛事",CCTV5+体育赛事
+https://yangshipin.cn/#/tv/home?pid=600001817
+#EXTINF:-1,tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://epg.112114.xyz/logo/CCTV4k.png" group-title="CCTV4k",CCTV4k
+https://yangshipin.cn/#/tv/home?pid=600002264
+
 
 央視頻測試,#genre#
 parse=1
