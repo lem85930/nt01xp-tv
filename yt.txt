@@ -1,7 +1,7 @@
 
 測試頻道,#genre#
 parse=1
-9紀錄,https://m.yangshipin.cn/video?type=1&vid=2000499403&pid=600004078
+9紀錄,https://yangshipin.cn/#/tv/home?pid=600004078
 
 常看頻道,#genre#
 緯來日本,rtmp://9sv2.mine.nu/sat/tv771
