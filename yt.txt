@@ -1,7 +1,7 @@
 
 央視頻測試,#genre#
 parse=1
-CCTV4K超高清,https://yangshipin.cn/#/tv/home?pid=600002264
+CCTV4K超高清,https://yangshipin.cn/tv/home?pid=600002264
 CCTV1綜合,https://yangshipin.cn/#/tv/home?pid=600001859
 CCTV2財經,https://yangshipin.cn/#/tv/home?pid=600001800
 CCTV3綜藝,https://yangshipin.cn/#/tv/home?pid=600001801
