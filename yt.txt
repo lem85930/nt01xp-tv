@@ -1,3 +1,8 @@
+央視頻測試1,#genre#
+parse=1
+#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV1
+https://yangshipin.cn/#/tv/home?pid=600001859
+
 央視頻測試,#genre#
 parse=1
 CCTV4K超高清,https://yangshipin.cn/#/tv/home?pid=600002264
