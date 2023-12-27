@@ -78,6 +78,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 北海道,https://www.youtube.com/watch?v=d8CrKBU99Hg
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
+名古屋,https://www.youtube.com/watch?v=-C6FE2m7kX8
 
 油管直播,#genre#
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
