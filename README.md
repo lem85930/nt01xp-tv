@@ -30,8 +30,6 @@ http://tonkiang.us/?s=緯來日本
 
 緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb)
 
-http://tonkiang.us/?s=東森新聞
-
 電視直播源搜索  動物星球 
 
 http://tonkiang.us/?s=動物星球
