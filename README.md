@@ -24,11 +24,15 @@ CCTV免費頻道,https://tv.cctv.com/live
 
 易播機上盒使用教學 https://6868jx.com
 
-電視直播源搜索動物星球 
+電視直播源搜索  緯來日本 
+
+http://tonkiang.us/?s=緯來日本
+
+電視直播源搜索  動物星球 
 
 http://tonkiang.us/?s=動物星球
 
-電視直播源搜索東森新聞 
+電視直播源搜索  東森新聞 
 
 http://tonkiang.us/?s=東森新聞
 
