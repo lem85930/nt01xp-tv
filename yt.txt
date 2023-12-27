@@ -81,6 +81,7 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 名古屋,https://www.youtube.com/watch?v=-C6FE2m7kX8
 TBS,https://www.youtube.com/watch?v=ohI356mwBp8
 KBC,https://www.youtube.com/watch?v=wla87f41wj4
+廣島,https://www.youtube.com/watch?v=e2pgLUmaxGs
 
 油管直播,#genre#
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
