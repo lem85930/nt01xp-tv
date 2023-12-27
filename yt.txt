@@ -9,6 +9,22 @@ TVBS歡樂,rtmp://9sv2.mine.nu/sat/tv421
 緯來育樂,rtmp://9sv2.mine.nu/sat/tv701
 緯來體育,rtmp://9sv2.mine.nu/sat/tv721
 
+央視頻嗅探,#genre#
+parse=1
+CCTV4K超高清,https://www.yangshipin.cn/#/tv/home?pid=600002264
+CCTV1綜合,https://www.yangshipin.cn/#/tv/home?pid=600001859
+CCTV2財經,https://www.yangshipin.cn/#/tv/home?pid=600001800
+CCTV4中文國際,https://www.yangshipin.cn/#/tv/home?pid=600001814
+CCTV7國防軍事,https://www.yangshipin.cn/#/tv/home?pid=600004092
+CCTV9紀錄,https://www.yangshipin.cn/#/tv/home?pid=600004078
+CCTV10科教,https://www.yangshipin.cn/#/tv/home?pid=600001805
+CCTV11戲曲,https://www.yangshipin.cn/#/tv/home?pid=600001806
+CCTV12社會與法,https://www.yangshipin.cn/#/tv/home?pid=600001807
+CCTV13新聞,https://www.yangshipin.cn/#/tv/home?pid=600001811
+CCTV14少兒,https://www.yangshipin.cn/#/tv/home?pid=600001809
+CCTV15音樂,https://www.yangshipin.cn/#/tv/home?pid=600001815
+CCTV17農業農村,https://www.yangshipin.cn/#/tv/home?pid=600001810
+
 LINE嗅探,#genre#
 parse=1
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
