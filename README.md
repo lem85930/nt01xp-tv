@@ -42,6 +42,8 @@ http://tonkiang.us/?s=動物星球
 
 http://tonkiang.us/?s=東森新聞
 
+東森新聞,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+
 電視直播源搜索 50.7.238.114:8278
 
 http://tonkiang.us/?s=50.7.238.114:8278
