@@ -25,9 +25,10 @@ parse=1
 TVBS新聞,https://www.histar.tv/live/tvbs-news
 緯來日本,https://www.histar.tv/live/videoland-japan
 東森幼幼,https://www.histar.tv/live/ebc-yoyo
+動物星球,https://www.histar.tv/live/animal-planet
 壹新聞,https://www.histar.tv/live/nexttv
 年代新聞,https://www.histar.tv/live/era-news
-動物星球,https://www.histar.tv/live/animal-planet
+
 
 DAY嗅探,#genre#
 parse=1
