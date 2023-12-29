@@ -1,3 +1,9 @@
+
+cctv嗅探,#genre#
+parse=1
+CCTV9,https://yspapp.cn/b
+
+
 常看頻道,#genre#
 緯來日本,rtmp://9sv2.mine.nu/sat/tv771
 華視,rtmp://9sv2.mine.nu/sat/tv111
