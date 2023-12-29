@@ -1,7 +1,7 @@
 
 cctv嗅探,#genre#
 parse=1
-video://https://yangshipin.cn/#/tv/home?pid=600001859
+https://yangshipin.cn/#/tv/home?pid=600001859
 
 
 
