@@ -161,6 +161,8 @@ TVBS新聞,https://www.histar.tv/live/tvbs-news
 緯來日本,https://www.histar.tv/live/videoland-japan
 東森幼幼,https://www.histar.tv/live/ebc-yoyo
 動物星球,https://www.histar.tv/live/animal-planet
+Love Nature,https://www.histar.tv/live/love-nature
+愛爾達旅遊,https://www.histar.tv/live/elta-lifetravel
 壹新聞,https://www.histar.tv/live/nexttv
 年代新聞,https://www.histar.tv/live/era-news
 
