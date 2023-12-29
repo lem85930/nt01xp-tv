@@ -7,10 +7,6 @@ EXTM3U
 #EXTINF:-1 ,CCTV4K超高清
 video://https://www.yangshipin.cn/#/tv/home?pid=600002264
 
-配置:{"name":"央视频嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"timeout": 40,"url":"./tv/央视频嗅探.m3u","boot":false},
-
-
-
 常看頻道,#genre#
 緯來日本,rtmp://9sv2.mine.nu/sat/tv771
 華視,rtmp://9sv2.mine.nu/sat/tv111
