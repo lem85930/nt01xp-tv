@@ -153,9 +153,6 @@ TVBS新聞,https://www.4gtv.tv/channel/4gtv-live072?set=4&ch=129
 209超人力霸王整套看,https://www.4gtv.tv/channel/4gtv-live015?set=1&ch=278
 210花系列 經典劇場,https://www.4gtv.tv/channel/4gtv-live016?set=1&ch=279
 
-
-
-
 星視界嗅探,#genre#
 parse=1
 東森新聞,https://www.histar.tv/live/ebc-news
@@ -165,7 +162,6 @@ TVBS新聞,https://www.histar.tv/live/tvbs-news
 動物星球,https://www.histar.tv/live/animal-planet
 壹新聞,https://www.histar.tv/live/nexttv
 年代新聞,https://www.histar.tv/live/era-news
-
 
 DAY嗅探,#genre#
 parse=1
