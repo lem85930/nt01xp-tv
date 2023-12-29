@@ -34,6 +34,7 @@ TVB翡翠台,https://www.histar.tv/live/feicui
 TVB新聞台,https://www.histar.tv/live/tvb-news
 TVB J2台,https://www.histar.tv/live/j2
 HOY資訊台,https://www.histar.tv/live/hoy-info
+澳門蓮花,https://www.histar.tv/live/lotustv
 
 DAY嗅探,#genre#
 parse=1
