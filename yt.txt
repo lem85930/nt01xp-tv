@@ -1,13 +1,9 @@
 iptv222嗅探,#genre#
 parse=1
 CCTV4k高清,https://m.iptv222.com/iptv.php?act=play&token=e16b6c118f4f2bfd1aa4b4c378ac6884&tid=ys&id=19
-
 9紀錄,https://iptv345.com/?act=play&token=a6353d3ba05fe52213f2bb2dc9774ee9&tid=ys&id=10
-
 10科教,https://iptv345.com/?act=play&token=54904f31bd0c4c123097687fb47b3a87&tid=ys&id=11
-
 北京衛視,https://iptv345.com/?act=play&token=fca386d757ec12322ef468621594ef2a&tid=ws&id=5
-
 江蘇衛視,https://iptv345.com/?act=play&token=bbd1c8d5773a5df97671ebca158789ff&tid=ws&id=2
 
 
