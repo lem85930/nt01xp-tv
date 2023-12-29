@@ -29,6 +29,10 @@ Love Nature,https://www.histar.tv/live/love-nature
 愛爾達旅遊,https://www.histar.tv/live/elta-lifetravel
 壹新聞,https://www.histar.tv/live/nexttv
 年代新聞,https://www.histar.tv/live/era-news
+TVB星河台,https://www.histar.tv/live/tvb-xinghe
+TVB翡翠台,https://www.histar.tv/live/feicui
+TVB新聞台,https://www.histar.tv/live/tvb-news
+HOY資訊台,https://www.histar.tv/live/hoy-info
 
 DAY嗅探,#genre#
 parse=1
