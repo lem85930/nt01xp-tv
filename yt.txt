@@ -32,6 +32,7 @@ Love Nature,https://www.histar.tv/live/love-nature
 TVB星河台,https://www.histar.tv/live/tvb-xinghe
 TVB翡翠台,https://www.histar.tv/live/feicui
 TVB新聞台,https://www.histar.tv/live/tvb-news
+TVB J2台,https://www.histar.tv/live/j2
 HOY資訊台,https://www.histar.tv/live/hoy-info
 
 DAY嗅探,#genre#
