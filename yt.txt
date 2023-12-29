@@ -1,8 +1,7 @@
 
 cctv嗅探,#genre#
 parse=1
-CCTV9,https://yspapp.cn/b
-
+CCTV9,https://tv.cctv.com/live/cctvjilu
 
 常看頻道,#genre#
 緯來日本,rtmp://9sv2.mine.nu/sat/tv771
