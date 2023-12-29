@@ -1,5 +1,5 @@
 
-CCTV嗅探,#genre#
+iptv222嗅探,#genre#
 parse=1
 CCTV4k高清,https://m.iptv222.com/iptv.php?act=play&token=e16b6c118f4f2bfd1aa4b4c378ac6884&tid=ys&id=19
 
