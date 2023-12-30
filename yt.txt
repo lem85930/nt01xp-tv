@@ -105,8 +105,6 @@ KBC,https://www.youtube.com/watch?v=wla87f41wj4
 24/7 NES,https://www.youtube.com/watch?v=6fE_usyvSM4
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
-TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-無線新聞,http://live.cooltv.top/tv/tvb.php?id=0
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 吳青峰起風了,https://youtu.be/4o0BD1KUL5g?si=3nYNP1wgCwQ2f6Ny
 
