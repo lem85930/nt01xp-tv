@@ -11,17 +11,7 @@ NODE央視,#genre#
 17農業農村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
 
-101央視,#genre#
-CCTV4K,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
-1綜合,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-9紀錄,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-10科教,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-13新聞,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-江蘇衛視,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
-浙江衛視,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
-湖南衛視,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-北京衛視,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
-東方衛視,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+
 
 
 陝西央視,#genre#
