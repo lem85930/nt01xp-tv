@@ -1,4 +1,5 @@
 NODE央視,#genre#
+4K,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 2財經,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 5體育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -9,9 +10,6 @@ NODE央視,#genre#
 10科教,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 13新聞,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 17農業農村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
-
-
-4K,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 
 1綜合,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 
