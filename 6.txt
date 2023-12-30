@@ -10,10 +10,6 @@ NODE央視,#genre#
 13新聞,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 17農業農村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
-
-
-
-
 陝西央視,#genre#
 1綜合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 1綜合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
