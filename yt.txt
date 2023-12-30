@@ -101,7 +101,6 @@ KBC,https://www.youtube.com/watch?v=wla87f41wj4
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-吳青峰起風了,https://youtu.be/4o0BD1KUL5g?si=3nYNP1wgCwQ2f6Ny
 
 NODE央視,#genre#
 1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
