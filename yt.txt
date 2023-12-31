@@ -76,8 +76,13 @@ HOY資訊台,https://www.histar.tv/live/hoy-info
 9紀錄,https://www.histar.tv/live/cctv9
 10科教,https://www.histar.tv/live/cctv10
 13新聞,https://www.histar.tv/live/cctv13
-北京衛視,https://www.histar.tv/live/beijing
+
+
 江蘇衛視,https://www.histar.tv/live/jiangsu
+浙江衛視,https://www.histar.tv/live/zhejiang
+湖南衛視,https://www.histar.tv/live/hunan
+北京衛視,https://www.histar.tv/live/beijing
+東方衛視,https://www.histar.tv/live/dongfang
 
 DAY嗅探,#genre#
 parse=1
