@@ -73,8 +73,11 @@ TVB翡翠台,https://www.histar.tv/live/feicui
 TVB新聞台,https://www.histar.tv/live/tvb-news
 TVB J2台,https://www.histar.tv/live/j2
 HOY資訊台,https://www.histar.tv/live/hoy-info
-澳門蓮花,https://www.histar.tv/live/lotustv
-TVB娛樂新聞,https://www.histar.tv/live/TVB%20ylxw
+9紀錄,https://www.histar.tv/live/cctv9
+10科教,https://www.histar.tv/live/cctv10
+13新聞,https://www.histar.tv/live/cctv13
+北京衛視,https://www.histar.tv/live/beijing
+江蘇衛視,https://www.histar.tv/live/jiangsu
 
 DAY嗅探,#genre#
 parse=1
