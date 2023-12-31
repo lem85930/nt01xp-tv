@@ -38,6 +38,8 @@ DAY嗅探,#genre#
 parse=1
 東森新聞,http://everydaytv.top/play-3-41-0.html
 TVBS新聞,http://everydaytv.top/play-3-167-0.html
+緯來日本,http://everydaytv.top/play-3-173-0.html
+緯來綜合,http://everydaytv.top/play-3-177-0.html
 動物星球,http://everydaytv.top/play-3-47-0.html
 八大綜合,http://everydaytv.top/play-3-13-0.html
 CN卡通頻道,http://everydaytv.top/play-3-106-0.html
@@ -48,8 +50,7 @@ CN卡通頻道,http://everydaytv.top/play-3-106-0.html
 東森電影,http://everydaytv.top/play-3-40-0.html
 東森洋片,http://everydaytv.top/play-3-45-0.html
 東森綜合,http://everydaytv.top/play-3-46-0.html
-緯來日本,http://everydaytv.top/play-3-173-0.html
-緯來綜合,http://everydaytv.top/play-3-177-0.html
+
 緯來體育,http://everydaytv.top/play-3-174-0.html
 衛視中文,http://everydaytv.top/play-3-179-0.html
 壹新聞,http://everydaytv.top/play-3-185-0.html
