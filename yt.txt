@@ -485,6 +485,4 @@ parse=1
 
 
 "lives": [
-{"name":"央视频嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"timeout": 40,"url":"./tv/央视频嗅探.m3u"]
-
-#央卫
+{"name":"央视频嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"timeout": 40,"url":".https://raw.githubusercontent.com/nt01xp/tv/main/ysp.m3u"]
