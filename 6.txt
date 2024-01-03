@@ -1,15 +1,3 @@
-NODE央視,#genre#
-1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-2財經,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-5體育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-5+體育賽事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-7國防軍事,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-8電視劇,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-9紀錄,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-10科教,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-13新聞,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-17農業農村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
-
 陝西央視,#genre#
 1綜合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 1綜合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
