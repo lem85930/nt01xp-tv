@@ -482,3 +482,9 @@ parse=1
 廣東衛視,https://www.yangshipin.cn/#/tv/home?pid=600002485
 遼寧衛視,https://www.yangshipin.cn/#/tv/home?pid=600002505
 黑龍江衛視,https://www.yangshipin.cn/#/tv/home?pid=600002498
+
+
+"lives": [
+{"name":"央视频嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"timeout": 40,"url":"./tv/央视频嗅探.m3u"]
+
+#央卫
