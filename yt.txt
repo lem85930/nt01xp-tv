@@ -21,6 +21,7 @@ LINE嗅探,#genre#
 parse=1
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
 TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
+哆啦Ａ夢,https://www.ofiii.com/channel/watch/ofiii22
 
 星視界嗅探,#genre#
 parse=1
