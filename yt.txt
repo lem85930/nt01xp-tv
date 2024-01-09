@@ -15,13 +15,10 @@ CCTV4K2,https://epg.pw/stream/cdb7dc4b9bb55b9a6313ce183fe52ded97374c2862e39eba12
 CCTV4K3,https://epg.pw/stream/c97f7bc60ee4f85f4d4a922e28391a840c8ba0c6524a66bc72a1606d5370565b.m3u8
 CCTV4K4,https://epg.pw/stream/7a75b421ef8187ba65e03db4b8a66a58e515ae76824a6c7eecf04a346ff6a799.m3u8
 
-
-
 LINE嗅探,#genre#
 parse=1
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
 TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
-哆啦Ａ夢,https://www.ofiii.com/channel/watch/ofiii22
 
 星視界嗅探,#genre#
 parse=1
