@@ -156,14 +156,14 @@ EPG央視,#genre#
 17農業農村2,https://epg.pw/stream/dddefc79612b67b3cf82b2c6e138c410f87628a60ce50a269f6e8dec056c23a8.m3u8
 17農業農村3,https://epg.pw/stream/075aaf354045d6871ed468a6c4a685d8da25a6a1aaee00e61fb82b1850cf5397.m3u8
 17農業農村4,https://epg.pw/stream/e447d3ea6fd9c55e02f049d9146fccfc115ffc071937d2de6a2255a1c25e847c.m3u8
-純享4K1,https://epg.pw/stream/57f9cbc68a601b004d1e72c4938f02445eb196e932d527db7fc81dfb35472389.m3u8
-純享4K2,https://epg.pw/stream/b3308fab36d70257c4f8035b4d5fdf935be5aa7d894a1735f370ca3fb5368850.m3u8
-純享4K3,https://epg.pw/stream/2cdf81ef11aac50068bac9c269fc115bc526a2040ecdea4f4cc6227daae38e12.m3u8
-純享4K4,https://epg.pw/stream/9c1db237a5936b8a62e385f181982705360ccf8c7e918af8aab64885fe70c49c.m3u8
-CCTV4K1,https://epg.pw/stream/1609644cdf59d8b7998267b7593c6c4d325b2fd3718d345e4d7405f2c68d8e80.m3u8
-CCTV4K2,https://epg.pw/stream/cdb7dc4b9bb55b9a6313ce183fe52ded97374c2862e39eba121614d6f7207c13.m3u8
-CCTV4K3,https://epg.pw/stream/c97f7bc60ee4f85f4d4a922e28391a840c8ba0c6524a66bc72a1606d5370565b.m3u8
-CCTV4K4,https://epg.pw/stream/7a75b421ef8187ba65e03db4b8a66a58e515ae76824a6c7eecf04a346ff6a799.m3u8
+純享4K1,https://epg.pw/stream/2cdf81ef11aac50068bac9c269fc115bc526a2040ecdea4f4cc6227daae38e12.m3u8
+純享4K2,https://epg.pw/stream/9c1db237a5936b8a62e385f181982705360ccf8c7e918af8aab64885fe70c49c.m3u8
+4K1,https://epg.pw/stream/1609644cdf59d8b7998267b7593c6c4d325b2fd3718d345e4d7405f2c68d8e80.m3u8
+4K2,https://epg.pw/stream/cdb7dc4b9bb55b9a6313ce183fe52ded97374c2862e39eba121614d6f7207c13.m3u8
+4K3,https://epg.pw/stream/c97f7bc60ee4f85f4d4a922e28391a840c8ba0c6524a66bc72a1606d5370565b.m3u8
+4K4,https://epg.pw/stream/7a75b421ef8187ba65e03db4b8a66a58e515ae76824a6c7eecf04a346ff6a799.m3u8
+4K5,https://epg.pw/stream/57f9cbc68a601b004d1e72c4938f02445eb196e932d527db7fc81dfb35472389.m3u8
+4K6,https://epg.pw/stream/b3308fab36d70257c4f8035b4d5fdf935be5aa7d894a1735f370ca3fb5368850.m3u8
 
 EPG衛視,#genre#
 江蘇衛視1,https://epg.pw/stream/22bb73dc67ae787e09682492ba82d129352a7af82e0a239b4b2fdc892219f16e.m3u8
