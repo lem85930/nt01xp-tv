@@ -165,7 +165,7 @@ CCTV4K2,https://epg.pw/stream/cdb7dc4b9bb55b9a6313ce183fe52ded97374c2862e39eba12
 CCTV4K3,https://epg.pw/stream/c97f7bc60ee4f85f4d4a922e28391a840c8ba0c6524a66bc72a1606d5370565b.m3u8
 CCTV4K4,https://epg.pw/stream/7a75b421ef8187ba65e03db4b8a66a58e515ae76824a6c7eecf04a346ff6a799.m3u8
 
-EPG衛視視,#genre#
+EPG衛視,#genre#
 江蘇衛視1,https://epg.pw/stream/22bb73dc67ae787e09682492ba82d129352a7af82e0a239b4b2fdc892219f16e.m3u8
 江蘇衛視2,https://epg.pw/stream/f641cd68858a9b72a75fdbb8450741dca8d64aeecba0bdcd3ccb5f826f07a739.m3u8
 江蘇衛視3,https://epg.pw/stream/c820313a01ccf35b80f23ef104f866d422e22f5e9ad084b95f80c77d875bcbab.m3u8
