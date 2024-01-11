@@ -35,26 +35,7 @@ Love Nature,https://www.histar.tv/live/love-nature
 北京衛視,https://www.histar.tv/live/beijing
 東方衛視,https://www.histar.tv/live/dongfang
 
-DAY嗅探,#genre#
-parse=1
-東森新聞,http://everydaytv.top/play-3-43-0.html
-TVBS新聞,http://everydaytv.top/play-3-167-0.html
-緯來日本,http://everydaytv.top/play-3-175-0.html
-緯來綜合,http://everydaytv.top/play-3-179-0.html
-動物星球,http://everydaytv.top/play-3-47-0.html
-八大綜合,http://everydaytv.top/play-3-13-0.html
-CN卡通頻道,http://everydaytv.top/play-3-108-0.html
-八大戲劇,http://everydaytv.top/play-3-11-0.html
-八大第一,http://everydaytv.top/play-3-9-0.html
-東森超視,http://everydaytv.top/play-3-39-0.html
-東森戲劇,http://everydaytv.top/play-3-42-0.html
-東森電影,http://everydaytv.top/play-3-40-0.html
-東森洋片,http://everydaytv.top/play-3-45-0.html
-東森綜合,http://everydaytv.top/play-3-46-0.html
-緯來體育,http://everydaytv.top/play-3-174-0.html
-衛視中文,http://everydaytv.top/play-3-179-0.html
-壹新聞,http://everydaytv.top/play-3-185-0.html
-年代新聞,http://everydaytv.top/play-3-139-0.html
+
 
 油管新聞,#genre#
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
