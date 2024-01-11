@@ -28,19 +28,13 @@ CCTV免費頻道,https://tv.cctv.com/live
 
 http://tonkiang.us/?s=緯來日本
 
-緯來日本,http://50.7.238.114:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb)
-
 電視直播源搜索  動物星球 
 
 http://tonkiang.us/?s=動物星球
 
-動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-
 電視直播源搜索  東森新聞 
 
 http://tonkiang.us/?s=東森新聞
-
-東森新聞,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 
 電視直播源搜索 50.7.238.114:8278
 
