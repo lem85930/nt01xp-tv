@@ -1,14 +1,3 @@
-常看頻道,#genre#
-緯來日本,rtmp://9sv2.mine.nu/sat/tv771
-華視,rtmp://9sv2.mine.nu/sat/tv111
-中視,rtmp://9sv2.mine.nu/sat/tv091
-台視,rtmp://9sv2.mine.nu/sat/tv071
-民視,rtmp://9sv2.mine.nu/sat/tv051
-TVBS新聞,rtmp://9sv2.mine.nu/sat/tv551
-TVBS歡樂,rtmp://9sv2.mine.nu/sat/tv421
-緯來育樂,rtmp://9sv2.mine.nu/sat/tv701
-緯來體育,rtmp://9sv2.mine.nu/sat/tv721
-
 LINE嗅探,#genre#
 parse=1
 東森新聞,https://today.line.me/tw/v2/article/grrvVZ
