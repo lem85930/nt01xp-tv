@@ -1,4 +1,4 @@
-LINE嗅探,#genre#
+油管新聞,#genre#
 parse=1
 東森新聞L,https://today.line.me/tw/v2/article/grrvVZ
 TVBS新聞L,https://today.line.me/tw/v2/article/jggMBa
