@@ -135,7 +135,6 @@ V4頻道,#genre#
 11戲曲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 12社會與法,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 13新聞,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-13新聞,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226454/index.m3u8
 14少兒,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 15音樂,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 16奧林匹克,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
