@@ -24,6 +24,7 @@ KBC,https://www.youtube.com/watch?v=wla87f41wj4
 TVB香港,#genre#
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB娛樂新聞,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB無線新聞,http://live.cooltv.top/tv/tvb.php?id=0
 TVB無線財經,http://live.cooltv.top/tv/tvb.php?id=2
