@@ -128,16 +128,14 @@ CHC動作電影6465,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122646
 陝西央視,#genre#
 1綜合5804,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 1綜合6231,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-1綜合6457,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
-1綜合6938,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226938/index.m3u8
 2財經6195,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 2財經6224,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 3綜藝6397,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 4中文國際6191,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 4中文國際6223,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+5體育6395,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 5+體育賽事5761,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 5+體育賽事6221,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-5體育6395,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 6電影6011,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 6電影6393,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 7國防軍事6192,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
