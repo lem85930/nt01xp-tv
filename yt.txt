@@ -508,7 +508,7 @@ parse=1
 1248号[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 1251号[785*576],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
 1254号[785*576],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
-1298号[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龍江影視[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 1301号[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 1304号[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 1307号[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
