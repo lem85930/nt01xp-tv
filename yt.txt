@@ -427,3 +427,4 @@ parse=1
 黑龍江新聞法治6330,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 黑龍江農業科教6242,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龍江影視6298,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+黑龍江影視5973,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
