@@ -117,16 +117,6 @@ V4衛視,#genre#
 深圳衛視5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226205/1.m3u8
 廣東衛視5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
 
-陝西電影,#genre#
-CHC家庭影院6462,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC高清電影6463,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC動作電影6465,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-
-陝西紀實,#genre#
-北京紀實科教6232,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
-湖南金鷹紀實6351,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
-上海紀實人文6230,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-
 陝西央視,#genre#
 1綜合5804,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 1綜合6231,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -180,6 +170,17 @@ CHC動作電影6465,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122646
 黑龍江衛視5802,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龍江衛視6010,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 黑龍江衛視6215,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
+
+陝西電影,#genre#
+CHC家庭影院6462,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清電影6463,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC動作電影6465,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+
+陝西紀實,#genre#
+北京紀實科教6232,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+湖南金鷹紀實6351,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
+上海紀實人文6230,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
+
 
 陝西收費,#genre#
 CCTV世界地理6947,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
