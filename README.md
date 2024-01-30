@@ -51,6 +51,6 @@ http://tonkiang.us/?s=http://198.16.100.90:8278
 
 電視直播源搜索引擎zteres.sn.chinamobile.com:6060
 
-http://tonkiang.us/?s=http://zteres.sn.chinamobile.com:6060
+http://tonkiang.us/?s=zteres.sn.chinamobile.com:6060
 
 
