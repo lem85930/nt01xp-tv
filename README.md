@@ -6,10 +6,6 @@
 
 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-范明明V6
-
-https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/v6.m3u
-
 4GTV免費頻道,https://www.4gtv.tv/channel?channelSet_id=4
 
 CCTV免費頻道,https://tv.cctv.com/live
@@ -51,6 +47,6 @@ http://tonkiang.us/?s=http://198.16.100.90:8278
 
 電視直播源搜索引擎zteres.sn.chinamobile.com:6060
 
-http://tonkiang.us/?s=zteres.sn.chinamobile.com:6060
+http://tonkiang.us/?s=zteres.sn.chinamobile.com
 
 
