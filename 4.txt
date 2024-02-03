@@ -12,8 +12,7 @@ x8電視劇,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 x10科教,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 X11戲曲,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
 x12社會與法,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
-13新聞,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-14少兒,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+13新聞,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u814少兒,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 X15音樂,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
 X16奧林匹克,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 x17農業農村,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
