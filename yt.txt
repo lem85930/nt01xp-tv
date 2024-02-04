@@ -28,27 +28,6 @@ TVB娛樂新聞,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB無線新聞,http://live.cooltv.top/tv/tvb.php?id=0
 TVB無線財經,http://live.cooltv.top/tv/tvb.php?id=2
 
-星視界嗅探,#genre#
-parse=1
-東森新聞,https://www.histar.tv/live/ebc-news
-TVBS新聞,https://www.histar.tv/live/tvbs-news
-緯來日本,https://www.histar.tv/live/videoland-japan
-東森幼幼,https://www.histar.tv/live/ebc-yoyo
-動物星球,https://www.histar.tv/live/animal-planet
-Love Nature,https://www.histar.tv/live/love-nature
-亞洲旅遊,https://www.histar.tv/live/asia-travel
-愛爾達旅遊,https://www.histar.tv/live/elta-lifetravel
-壹新聞,https://www.histar.tv/live/nexttv
-年代新聞,https://www.histar.tv/live/era-news
-9紀錄,https://www.histar.tv/live/cctv9
-10科教,https://www.histar.tv/live/cctv10
-13新聞,https://www.histar.tv/live/cctv13
-江蘇衛視,https://www.histar.tv/live/jiangsu
-浙江衛視,https://www.histar.tv/live/zhejiang
-湖南衛視,https://www.histar.tv/live/hunan
-北京衛視,https://www.histar.tv/live/beijing
-東方衛視,https://www.histar.tv/live/dongfang
-
 油管直播,#genre#
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
