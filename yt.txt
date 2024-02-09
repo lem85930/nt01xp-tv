@@ -2,7 +2,6 @@
 parse=1
 東森新聞L,https://today.line.me/tw/v2/article/grrvVZ
 TVBS新聞L,https://today.line.me/tw/v2/article/jggMBa
-蠟筆小新,https://www.ofiii.com/channel/watch/ofiii165
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=2dfAzcDf8Zg
