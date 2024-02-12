@@ -45,7 +45,6 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
-
 36V4,#genre#
 1綜合,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv1.m3u8
 2財經,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv2.m3u8
@@ -65,8 +64,6 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 15音樂,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv15.m3u8
 16奧林匹克,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv16.m3u8
 17農業農村,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv17.m3u8
-
-
 
 NODE央視,#genre#
 1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
