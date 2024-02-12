@@ -45,25 +45,7 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
-36V4,#genre#
-1綜合,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv1.m3u8
-2財經,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv2.m3u8
-3綜藝,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv3.m3u8
-4中文國際,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv4.m3u8
-5體育,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv5.m3u8
-5+體育賽事,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
-6電影,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv6.m3u8
-7國防軍事,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv7.m3u8
-8電視劇,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv8.m3u8
-9紀錄,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv9.m3u8
-10科教,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv10.m3u8
-11戲曲,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv11.m3u8
-12社會與法,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv12.m3u8
-13新聞,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv13.m3u8
-14少兒,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv14.m3u8
-15音樂,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv15.m3u8
-16奧林匹克,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv16.m3u8
-17農業農村,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+
 
 NODE央視,#genre#
 1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
