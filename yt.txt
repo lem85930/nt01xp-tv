@@ -24,7 +24,7 @@ KBC,https://www.youtube.com/watch?v=wla87f41wj4
 TVB香港,#genre#
 TVB無線新聞,http://live.cooltv.top/tv/tvb.php?id=0
 TVB無線財經,http://live.cooltv.top/tv/tvb.php?id=2
-年代新聞臺,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
 Discovery,http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 動物星球,http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8
