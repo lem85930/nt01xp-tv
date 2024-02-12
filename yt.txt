@@ -66,26 +66,7 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 16奧林匹克,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv16.m3u8
 17農業農村,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 
-央視頻高清,#genre#
-4K超高清,http://cdn.jdshipin.com:8880/yspgq.php?id=4k
-1綜合,http://cdn.jdshipin.com:8880/yspgq.php?id=1
-2財經,http://cdn.jdshipin.com:8880/yspgq.php?id=2
-3綜藝,http://cdn.jdshipin.com:8880/yspgq.php?id=3
-4中文國際,http://cdn.jdshipin.com:8880/yspgq.php?id=4
-5體育,http://cdn.jdshipin.com:8880/yspgq.php?id=5
-5+體育賽事,http://cdn.jdshipin.com:8880/yspgq.php?id=5p
-6電影,http://cdn.jdshipin.com:8880/yspgq.php?id=6
-7國防軍事,http://cdn.jdshipin.com:8880/yspgq.php?id=7
-8電視劇,http://cdn.jdshipin.com:8880/yspgq.php?id=8
-9紀錄,http://cdn.jdshipin.com:8880/yspgq.php?id=9
-10科教,http://cdn.jdshipin.com:8880/yspgq.php?id=10
-11戲曲,http://cdn.jdshipin.com:8880/yspgq.php?id=11
-12社會與法,http://cdn.jdshipin.com:8880/yspgq.php?id=12
-13新聞,http://cdn.jdshipin.com:8880/yspgq.php?id=13
-14少兒,http://cdn.jdshipin.com:8880/yspgq.php?id=14
-15音樂,http://cdn.jdshipin.com:8880/yspgq.php?id=15
-16奧林匹克,http://cdn.jdshipin.com:8880/yspgq.php?id=16
-17農業農村,http://cdn.jdshipin.com:8880/yspgq.php?id=17
+
 
 NODE央視,#genre#
 1綜合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
