@@ -45,18 +45,6 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
-
-
-4K頻道,#genre#
-純享4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
-純享4K1,https://epg.pw/stream/2cdf81ef11aac50068bac9c269fc115bc526a2040ecdea4f4cc6227daae38e12.m3u8
-純享4K2,https://epg.pw/stream/9c1db237a5936b8a62e385f181982705360ccf8c7e918af8aab64885fe70c49c.m3u8
-CCTV4K1,https://epg.pw/stream/1609644cdf59d8b7998267b7593c6c4d325b2fd3718d345e4d7405f2c68d8e80.m3u8
-CCTV4K2,https://epg.pw/stream/cdb7dc4b9bb55b9a6313ce183fe52ded97374c2862e39eba121614d6f7207c13.m3u8
-
-CCTV8K超高清1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-CCTV8K超高清2,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-
 陝西央視,#genre#
 1綜合5804,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 1綜合6231,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
