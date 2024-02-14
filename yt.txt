@@ -124,10 +124,6 @@ CCTV文化精品6981,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV懷舊劇場6972,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 CCTV電視指南6987,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
 
-
-
-
-
 4GTV嗅探,#genre#
 parse=1
 4民視第一台,https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
