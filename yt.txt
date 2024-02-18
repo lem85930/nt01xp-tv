@@ -30,6 +30,7 @@ TVB無線財經,http://live.cooltv.top/tv/tvb.php?id=2
 動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
 油管直播,#genre#
+白菜科目三,https://youtu.be/1qxnHhz0ySA?si=ytuZuJ-2tT0zpxSs
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
@@ -37,9 +38,7 @@ MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
 新兵日記,https://www.youtube.com/watch?v=hbm8Uov-YOE
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
-高雄蓮池潭,https://www.youtube.com/watch?v=dCycHSYZBmg
 24/7 任天堂,https://www.youtube.com/watch?v=0kdtvLXrX_Q
-24/7 超級任天堂,https://www.youtube.com/watch?v=FQhExGXfD70
 24/7 GAMEBOY,https://www.youtube.com/watch?v=abCfe9AIts4
 24/7 SEGA,https://www.youtube.com/watch?v=rBTSQzP5fys
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
