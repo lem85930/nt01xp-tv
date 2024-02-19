@@ -33,7 +33,8 @@ TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
 油管直播,#genre#
-白菜科目三,https://youtu.be/1qxnHhz0ySA?si=ytuZuJ-2tT0zpxSs
+白菜科目三,https://www.youtube.com/watch?v=
+ytuZuJ-2tT0zpxSs
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
