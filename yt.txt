@@ -35,12 +35,13 @@ TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 油管直播,#genre#
 白菜科目三,https://www.youtube.com/watch?v=1qxnHhz0ySA&t=5s
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
+象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
+金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 新兵日記,https://www.youtube.com/watch?v=hbm8Uov-YOE
-象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
-金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
+
 24/7 任天堂,https://www.youtube.com/watch?v=0kdtvLXrX_Q
 24/7超任,https://www.youtube.com/live/a4Axh8sW3nA?si=A-wXhSwWcgXDQjZW
 24/7 GAMEBOY,https://www.youtube.com/live/qRCOlxovrTg?si=IcUClQ_0N18txrcr
