@@ -34,11 +34,10 @@ http://tonkiang.us/?s=http://198.16.100.90:8278
 
 酒店源搜索引擎 http://tonkiang.us/hoteliptv.php
 
-
-
-
 電視直播源搜索引擎zteres.sn.chinamobile.com:6060
 
 http://tonkiang.us/?s=https://zteres.sn.chinamobile.com
 
+央視
 
+http://tonkiang.us/?s=liveali-tpgq.cctv.cn
