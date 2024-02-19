@@ -1,7 +1,3 @@
-緯來日本,https://www.histar.tv/live/videoland-japan
-
-東森幼幼,https://www.histar.tv/live/ebc-yoyo
-
 范明明IPTV6
 
 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
