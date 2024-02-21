@@ -26,6 +26,8 @@ TVB無線新聞,http://live.cooltv.top/tv/tvb.php?id=0
 TVB無線財經,http://live.cooltv.top/tv/tvb.php?id=2
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
+蠟筆小新,https://www.ofiii.com/channel/watch/ofiii165
+
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
