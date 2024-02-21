@@ -26,7 +26,6 @@ TVB無線新聞,http://live.cooltv.top/tv/tvb.php?id=0
 TVB無線財經,http://live.cooltv.top/tv/tvb.php?id=2
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 緯來日本,https://ali.hlspull.yximgs.com/live/2828f822cc32ca9c121acc1c56964884.flv
-TVB星河台,https://ali.hlspull.yximgs.com/live/76adab5433d662eec38410ca5192bd20.flv
 東森新聞,https://ali.hlspull.yximgs.com/live/404ec7855f67401a1e3c3be7231826ca.flv
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
