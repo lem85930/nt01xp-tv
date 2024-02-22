@@ -34,6 +34,24 @@ TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
 動物星球2,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
+rtmp日本,#genre#
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+華視,rtmp://f13h.mine.nu/sat/tv111
+中視,rtmp://f13h.mine.nu/sat/tv091
+台視,rtmp://f13h.mine.nu/sat/tv071
+民視,rtmp://f13h.mine.nu/sat/tv051
+TVBS新聞,rtmp://f13h.mine.nu/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu/sat/tv421
+東森財經新聞,rtmp://f13h.mine.nu/sat/tv571
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+博斯網球,rtmp://f13h.mine.nu/sat/md031
+博斯網球,rtmp://f13h.mine.nu/sat/md041
+博斯運動,rtmp://f13h.mine.nu/sat/md051
+
 油管直播,#genre#
 白菜科目三,https://www.youtube.com/watch?v=1qxnHhz0ySA&t=5s
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
