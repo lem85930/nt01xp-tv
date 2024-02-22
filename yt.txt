@@ -25,14 +25,10 @@ TVB香港,#genre#
 TVB無線新聞,http://live.cooltv.top/tv/tvb.php?id=0
 TVB無線財經,http://live.cooltv.top/tv/tvb.php?id=2
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 八大綜合,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch21.m3u8
 東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-動物星球1,http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MC3C3856400538564005&ct=19225&tsum=6255ab9649411a8a70c7cbf2ebd7eb23
-
-動物星球2,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 
 rtmp日本,#genre#
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
@@ -42,15 +38,7 @@ rtmp日本,#genre#
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
-TVBS新聞,rtmp://f13h.mine.nu/sat/tv551
-TVBS歡樂,rtmp://f13h.mine.nu/sat/tv421
-東森財經新聞,rtmp://f13h.mine.nu/sat/tv571
-ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
-MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
-博斯網球,rtmp://f13h.mine.nu/sat/md031
-博斯網球,rtmp://f13h.mine.nu/sat/md041
-博斯運動,rtmp://f13h.mine.nu/sat/md051
+
 
 油管直播,#genre#
 白菜科目三,https://www.youtube.com/watch?v=1qxnHhz0ySA&t=5s
