@@ -40,7 +40,6 @@ rtmp日本,#genre#
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
 
-
 油管直播,#genre#
 白菜科目三,https://www.youtube.com/watch?v=1qxnHhz0ySA&t=5s
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
@@ -50,17 +49,12 @@ rtmp日本,#genre#
 MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 新兵日記,https://www.youtube.com/watch?v=hbm8Uov-YOE
-
 24/7 任天堂,https://www.youtube.com/watch?v=0kdtvLXrX_Q
 24/7超任,https://www.youtube.com/live/a4Axh8sW3nA?si=A-wXhSwWcgXDQjZW
 24/7 SEGA,https://www.youtube.com/watch?v=rBTSQzP5fys
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-
-
-
-
 
 央视频道,#genre#
 CCTV-1 综合,http://[2409:8087:7000:20::11]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
