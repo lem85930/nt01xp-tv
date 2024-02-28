@@ -18,7 +18,6 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 名古屋,https://www.youtube.com/watch?v=-C6FE2m7kX8
 TBS,https://www.youtube.com/watch?v=ohI356mwBp8
-KBC,https://www.youtube.com/watch?v=wla87f41wj4
 廣島,https://www.youtube.com/watch?v=e2pgLUmaxGs
 
 TVB香港,#genre#
