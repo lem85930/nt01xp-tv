@@ -56,6 +56,10 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 
 央视频道,#genre#
+北京淘電影,http://www.lishaoping.com:8012/rtp/239.3.1.250:8001
+北京淘Baby,http://www.lishaoping.com:8012/rtp/239.3.1.238:8001
+北京淘劇場,http://www.lishaoping.com:8012/rtp/239.3.1.95:8001
+北京淘娛樂,http://www.lishaoping.com:8012/rtp/239.3.1.100:8001
 CCTV-1 综合,http://[2409:8087:7000:20::11]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 CCTV-2 财经,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
 CCTV-3 综艺,http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
