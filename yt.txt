@@ -40,11 +40,11 @@ rtmp日本,#genre#
 民視,rtmp://f13h.mine.nu/sat/tv051
 
 油管直播,#genre#
-白菜科目三,https://www.youtube.com/watch?v=1qxnHhz0ySA&t=5s
+我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
+蠟筆小新TV版,https://www.youtube.com/watch?v=_jP5o1W3eW0
 九份,https://www.youtube.com/watch?v=XSD5ptYisw8
 象山看台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 金門建功嶼,https://www.youtube.com/watch?v=uh_yNAE01w8
-我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 新兵日記,https://www.youtube.com/watch?v=hbm8Uov-YOE
@@ -54,6 +54,7 @@ MOMO這一家S3,https://www.youtube.com/watch?v=nCb85URH8S0
 FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 影子傳說,https://www.youtube.com/watch?v=KYioWZfSABE
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
+白菜科目三,https://www.youtube.com/watch?v=1qxnHhz0ySA&t=5s
 
 央视频道,#genre#
 北京淘電影,http://www.lishaoping.com:8012/rtp/239.3.1.250:8001
