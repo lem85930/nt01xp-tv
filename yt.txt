@@ -31,6 +31,11 @@ TVB星河台國語,http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzz
 東森幼幼1,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
 東森幼幼2,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 動物星球,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+東森電影,http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
+東森洋片,http://ali.hlspull.yximgs.com/live/twlivezmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp.flv
+好萊塢電影,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
+澳門蓮花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
+
 
 日本1,http://103.197.59.107:5002/gd01.m3u8?token=guoziyun&gid=gd06&channel=zhongying
 日本2,http://103.197.59.107:5002/gd02.m3u8?token=guoziyun&gid=gd06&channel=zhongying
