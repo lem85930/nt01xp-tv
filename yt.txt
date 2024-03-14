@@ -64,7 +64,14 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 緯來綜合台,https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
 靖天日本台,http://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
 動物星球,http://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
-八大綜合,http://z88.ubtvfans.com/live/rx1/2286/9e0b6a5f3fd84c07dd7288d97fefe1be/index.m3u8
+八大綜合,http://z88.ubtvfans.com/live/rx1/2286/9e0b6a5f3fd84c07dd7288d97fefe1be/index.m3u8亞
+三立台灣,http://z88.ubtvfans.com/live/rx1/21/54fd524201ab86f16a7988d59ec3b2a6/index.m3u8
+三立都會,http://z88.ubtvfans.com/live/rx1/1001/b1231318422a83c6d474846f46096c8c/index.m3u8
+緯來育樂,http://z88.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
+緯來體育,http://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
+東森新聞,http://z88.ubtvfans.com/live/rx1/2766/11a206130aa9aeef32670d759dca953d/index.m3u8
+
+
 
 油管直播,#genre#
 蠟筆小新TV版,https://www.youtube.com/watch?v=_jP5o1W3eW0
