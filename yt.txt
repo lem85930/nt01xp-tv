@@ -57,6 +57,7 @@ rtmp日本,#genre#
 MOMO親子台,https://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
 CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
 緯來日本台,https://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
+緯來綜合台,https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
 
 油管直播,#genre#
 蠟筆小新TV版,https://www.youtube.com/watch?v=_jP5o1W3eW0
