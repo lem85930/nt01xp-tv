@@ -31,14 +31,6 @@ TBS,https://www.youtube.com/watch?v=ohI356mwBp8
 好萊塢電影,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
 澳門蓮花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
 
-日本1,http://103.197.59.107:5002/gd01.m3u8?token=guoziyun&gid=gd06&channel=zhongying
-日本2,http://103.197.59.107:5002/gd02.m3u8?token=guoziyun&gid=gd06&channel=zhongying
-日本3,http://103.197.59.107:5002/gd03.m3u8?token=guoziyun&gid=gd06&channel=zhongying
-日本4,http://103.197.59.107:5002/gd04.m3u8?token=guoziyun&gid=gd06&channel=zhongying
-日本5,http://103.197.59.107:5002/gd05.m3u8?token=guoziyun&gid=gd06&channel=zhongying
-日本6,http://103.197.59.107:5002/gd06.m3u8?token=guoziyun&gid=gd06&channel=zhongying
-日本7,http://103.197.59.107:5002/gd07.m3u8?token=guoziyun&gid=gd06&channel=zhongying
-日本8,http://103.197.59.107:5002/gd08.m3u8?token=guoziyun&gid=gd06&channel=zhongying
 
 rtmp日本,#genre#
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
