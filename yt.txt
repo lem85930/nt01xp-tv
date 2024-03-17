@@ -44,7 +44,6 @@ TBS,https://www.youtube.com/watch?v=ohI356mwBp8
 好萊塢電影,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
 澳門蓮花,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
 
-
 rtmp日本,#genre#
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
@@ -53,8 +52,6 @@ rtmp日本,#genre#
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
 民視,rtmp://f13h.mine.nu/sat/tv051
-
-
 
 油管直播,#genre#
 蠟筆小新TV版,https://www.youtube.com/watch?v=_jP5o1W3eW0
@@ -78,7 +75,6 @@ FC火之鳥,https://www.youtube.com/watch?v=HtvGvt6KpHM
 北京淘Baby,http://www.lishaoping.com:8012/rtp/239.3.1.238:8001
 北京淘劇場,http://www.lishaoping.com:8012/rtp/239.3.1.95:8001
 北京淘娛樂,http://www.lishaoping.com:8012/rtp/239.3.1.100:8001
-
 
 YSP央視,#genre#
 CCTV-4K,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
@@ -141,8 +137,6 @@ CCTV女性时尚,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513903.
 CCTV衛生健康,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 CCTV文化精品,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
 CCTV電視指南,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
-
-
 
 4GTV嗅探,#genre#
 parse=1
