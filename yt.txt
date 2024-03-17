@@ -98,7 +98,6 @@ CCTV15音樂,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
 CCTV16奧林匹克,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
 CCTV17農業農村,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
 
-YSP衛視,#genre#
 江蘇衛視,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
 浙江衛視,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
 湖南衛視,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
@@ -123,7 +122,6 @@ YSP衛視,#genre#
 海南衛視,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
 黑龍江衛視,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
 
-YSP收費,#genre#
 CCTV世界地理,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
 CCTV央視台球,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
 CCTV第一劇場,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
