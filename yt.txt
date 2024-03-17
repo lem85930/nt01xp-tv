@@ -29,8 +29,8 @@ JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 名古屋,https://www.youtube.com/watch?v=-C6FE2m7kX8
 TBS,https://www.youtube.com/watch?v=ohI356mwBp8
 廣島,https://www.youtube.com/watch?v=e2pgLUmaxGs
-國旗歌1,https://youtu.be/wPiPgvZjNtg?si=WJu3N4cl8d-x9Li
-國旗歌2,https://youtu.be/vTk_3Qv8TMk?si=ruNVZHkhj7tLLawD
+國旗,https://youtu.be/Hef_G-EzK20?si=rPUp-ZoTwkBegahv
+國旗歌,https://youtu.be/vTk_3Qv8TMk?si=ruNVZHkhj7tLLawD
 
 211雜魚,#genre#
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
