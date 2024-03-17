@@ -1,5 +1,5 @@
 
-我的電視,#genre#
+安博TV,#genre#
 東森幼幼1,http://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
 東森幼幼2,http://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
 MOMO親子台1,http://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
