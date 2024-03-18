@@ -300,6 +300,15 @@
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         }, 
        {
+            "name": "安博TV",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/nt01xp/tv/main/yt.txt",
+            "playerType":1,
+            "ua": "okhttp/3.15",            
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+        },
+       {
             "name": "范明明",
             "type": 0,
             "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
