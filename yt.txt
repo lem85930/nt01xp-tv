@@ -191,7 +191,6 @@ parse=1
 74Nice TV 靖天歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv054?set=1&ch=119
 75靖天資訊台,https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88
 77TVBS歡樂台,https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184
-78韓國娛樂台 KMTV,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=76
 80ROCK Entertainment,https://www.4gtv.tv/channel/4gtv-live080?set=1&ch=275
 81Lifetime 娛樂頻道,https://www.4gtv.tv/channel/4gtv-live029?set=1&ch=217
 82電影原聲台CMusic,https://www.4gtv.tv/channel/4gtv-live031?set=1&ch=218
@@ -218,7 +217,7 @@ parse=1
 115幸福空間居家台,https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=168
 116Love Nature,https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139
 117History 歷史頻道,https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
-118 Globetrotter 環遊旅行家,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=288
+118Globetrotter 環遊旅行家,https://www.4gtv.tv/channel/4gtv-4gtv016?set=1&ch=288
 120愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
 121LUXE TV Channel,https://www.4gtv.tv/channel/4gtv-live121?set=1&ch=175
 122TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
