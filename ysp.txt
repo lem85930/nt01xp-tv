@@ -304,7 +304,7 @@
             "type": 0,
             "playerType":2,
             "timeout": 50,
-            "url": "./parse/ysp.m3u",
+            "url": "https://raw.githubusercontent.com/nt01xp/tv/main/ysp.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         }, 
