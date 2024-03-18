@@ -7,6 +7,8 @@ MONO親子台2,http://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18e
 CN卡通,http://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
 緯來日本1,http://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
 緯來日本2,http://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
+緯來綜合,https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
+靖天日本,http://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
 
 油管新聞,#genre#
 parse=1
