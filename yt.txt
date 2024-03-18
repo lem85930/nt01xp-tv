@@ -458,3 +458,19 @@ Passie,http://z88.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/ind
 YOSSO TV SEXY,http://ca.ukrainske.tv/8774/3530225EDBD6B16/video.m3u8
 白兔1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6242/index.m3u8
 花花电视,http://ca.ukrainske.tv/242/3530225EDBD6B16/video.m3u8
+
+央視頻,#genre#
+CCTV4K超高清,video://https://www.yangshipin.cn/#/tv/home?pid=600002264
+CCTV1綜合,video://https://www.yangshipin.cn/#/tv/home?pid=600001859
+CCTV2財經,video://https://www.yangshipin.cn/#/tv/home?pid=600001800
+CCTV4中文國際,video://https://www.yangshipin.cn/#/tv/home?pid=600001814
+CCTV7國防軍事,video://https://www.yangshipin.cn/#/tv/home?pid=600004092
+CCTV9紀錄,video://https://www.yangshipin.cn/#/tv/home?pid=600004078
+CCTV10科教,video://https://www.yangshipin.cn/#/tv/home?pid=600001805
+CCTV11戲曲,video://https://www.yangshipin.cn/#/tv/home?pid=600001806
+CCTV12社會與法,video://https://www.yangshipin.cn/#/tv/home?pid=600001807
+CCTV13新聞,video://https://www.yangshipin.cn/#/tv/home?pid=600001811
+CCTV14少兒,video://https://www.yangshipin.cn/#/tv/home?pid=600001809
+CCTV15音樂,video://https://www.yangshipin.cn/#/tv/home?pid=600001815
+CCTV17農業農村,video://https://www.yangshipin.cn/#/tv/home?pid=600001810
+
