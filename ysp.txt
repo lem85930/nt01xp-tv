@@ -290,15 +290,6 @@
   ],
       "lives": [
         {
-            "name": "MyHome",
-            "type": 0,
-            "url": "https://raw.githubusercontent.com/weichoon2/iptv/9577e8b8bac007b51a25400106d939d6674e7e0d/myhometv_live.txt",
-            "playerType":1,
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",         
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
             "name": "央视频嗅探",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
@@ -308,16 +299,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         }, 
-        {
-            "name": "stream-link",
-            "type": 0,
-            "url": "http://www.stream-link.org/stream-link.m3u",
-            "playerType":1,
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",         
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"
-        },         
-        {
+       {
             "name": "范明明",
             "type": 0,
             "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
@@ -326,11 +308,5 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "电台",
-            "type": 0,
-            "url": "./radio.txt",
-            "playerType": 1
-        }            
       ]
 }
