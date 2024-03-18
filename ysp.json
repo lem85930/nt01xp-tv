@@ -355,7 +355,7 @@
             "type": 0,
             "playerType":2,
             "timeout": 50,
-            "url": "https://raw.githubusercontent.com/weichoon2/iptv/9577e8b8bac007b51a25400106d939d6674e7e0d/parse/ysp.m3u",
+            "url": "https://raw.githubusercontent.com/nt01xp/tv/main/ysp.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         }, 
