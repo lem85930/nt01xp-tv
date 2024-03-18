@@ -290,9 +290,9 @@
   ],
       "lives": [
         {
-            "name": "MyHome",
+            "name": "YT直播",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/weichoon2/iptv/9577e8b8bac007b51a25400106d939d6674e7e0d/myhometv_live.txt",
+            "url": "https://raw.githubusercontent.com/nt01xp/tv/main/yt.txt",
             "playerType":1,
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",         
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
