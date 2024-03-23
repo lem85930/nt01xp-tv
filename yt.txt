@@ -20,7 +20,7 @@ parse=1
 TVBS新聞L,https://today.line.me/tw/v2/article/jggMBa
 東森新聞L,https://today.line.me/tw/v2/article/grrvVZ
 
-媽祖,https://www.youtube.com/live/ZAJL6CkOUSo?si=EdNYTnN_13kmmk0Z
+北港媽祖,https://www.youtube.com/live/MNmsycvJlRg?si=XPPWP7P_OBOFh7jd
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/watch?v=2dfAzcDf8Zg
