@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",5體育
-video://https://tv.cctv.com/live/cctv5
 #EXTINF:-1 group-title="央视频道",CCTV4K超高清
 video://https://www.yangshipin.cn/#/tv/home?pid=600002264
 #EXTINF:-1 group-title="央视频道",CCTV1综合
