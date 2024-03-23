@@ -1,19 +1,19 @@
 
 安博TV,#genre#
-華視,http://z88.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8
-中視,http://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
-台視,http://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
-民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
-東森幼幼1,http://z88.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
-東森幼幼2,http://z88.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
-MOMO親子台1,http://z88.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
-MONO親子台2,http://z88.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
-CN卡通,http://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
-緯來日本1,http://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
-緯來日本2,http://z88.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
-緯來綜合,https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
-靖天日本,http://z88.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
-動物星球,http://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
+華視,http://z02.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8
+中視,http://z02.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
+台視,http://z02.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
+民視,http://z02.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
+東森幼幼1,http://z02.ubtvfans.com/live/rx1/2771/f80a3de4ce304ed26c613af4bd3a171e/index.m3u8
+東森幼幼2,http://z02.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
+MOMO親子台1,http://z02.ubtvfans.com/live/rx1/2767/721a2c596d029fba059085f169da4f2c/index.m3u8
+MONO親子台2,http://z02.ubtvfans.com/live/rx3/1126/e784303c7c9eed38bde81d3a18ea6a7b/index.m3u8
+CN卡通,http://z02.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/index.m3u8
+緯來日本1,http://z02.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
+緯來日本2,http://z02.ubtvfans.com/live/rx3/46/f02a81ef8894bafbc6efb82a89384917/index.m3u8
+緯來綜合,http://z02.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
+靖天日本,http://z02.ubtvfans.com/live/rx1/108/30128c2cf29a96e7265023b67dacce72/index.m3u8
+動物星球,http://z02.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8
 
 油管新聞,#genre#
 parse=1
